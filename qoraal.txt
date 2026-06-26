@@ -48,8 +48,8 @@ SO: Cayaaraha dhaqanka sida dhaantada iyo buraanburka waxay qayb ka yihiin madad
 SO: Ciriiriga gawaarida xilliga subaxdii wuxuu inta badan keenaa in shaqaaluhu ka daahaan shaqada.
 SO: Cuntooyinka Soomaalidu jeceshahay waxaa ugu horreeya bariiska, digirta iyo hilibka.
 SO: Calanka buluugga ah ee dhexda xiddigta cad ku leh waa astaanta qarannimada ummadda Soomaaliyeed.
-SO: Cilmi-baarayaashu waxay ogaadeen in geedka xildiiddu uu daawo u yahay xanuuno badan.
-SO: Cuf-isjiidadka dhulku wuxuu xajiyaa in walax kasta oo cirka loo tuuro ay dib ugu soo laabato dhulka.
+SO: Cilmi baarayaashu waxay ogaadeen in geedka xildiiddu uu daawo u yahay xanuuno badan.
+SO: Cuf isjiidadka dhulku wuxuu xajiyaa in walax kasta oo cirka loo tuuro ay dib ugu soo laabato dhulka.
 SO: Caleemaha geedaha dabiiciga ah waxay bixiyaan hawo saafi ah oo waxtar weyn leh.
 SO: Cayaartoyga caanka ah ayaa gool cajiib ah dhaliyay daqiiqadii ugu dambaysay ee cayaarta weyn.
 SO: Codka macaan ee heesaaga wuxuu soo jiitay dareenka dadweynihii faraha badnaa ee fagaaraha.
@@ -101,7 +101,7 @@ SO: Eeyga ilaalada ah wuxuu habeenkii dhowraa nabadgelyada guriga iyo beertaba s
 SO: Elsa waxay diyaarisay warbixin kooban oo ku saabsan wax soo saarka beeraha ee dalka.
 SO: Eliyas wuxuu dukaanka ka soo iibiyay dhar dhumuc weyn leh oo loogu talagalay xilliga qabowga.
 SO: Ehelada qoyska asalkoodu yahay miyiga waxay soo dhoweeyeen martida caawa timid guriga weyn.
-SO: Elmi wuxenty maanta bilaabay shaqo cusub oo ka tirsan isgaarsiinta iyo farsamada casriga ah.
+SO: Cilmi wuxuu maanta bilaabay shaqo cusub oo ka tirsan isgaarsiinta iyo farsamada casriga ah.
 SO: Eebbe wuxuu roobka u soo dejiyaa si dhulku u bixiyo dhir cagaaran oo waxtar leh.
 SO: Eeg buuggan cusub ee laga qoray taariikhda faca weyn ee Soomaalida deegaanka deggan.
 SO: Eeddo waxay suuqa ka soo iibisay dhar dhumuc weyn leh oo qurux badan oo diiran.
@@ -122,7 +122,7 @@ SO: Fagaaraha weyn ee magaalada waxaa ku tartamay dhalinyaro badan oo jecel ciya
 SO: Farmashiyaha xaafadda waxaa laga helaa dhammaan noocyada kala duwan ee daawada uu dhakhtarku qoray.
 SO: Fikirka wanaagsan ee qoraagu wuxuu si weyn u caawiyay akhristaha raba inuu wax barto.
 SO: Fardaha loo adeegsado gaari fardoodka waxay fududeeyaan raridda alaabta fudud ee suuqa.
-SO: Fadlan ii sharax habka ugu fudud ee loo isticmaalo kombiyuutarka cusub ee xafiiska maanta.
+SO: Fadlan ii sharax habka ugu fudud ee loo isticmaalo kumbuyuutarka cusub ee xafiiska maanta.
 SO: Farsamada casriga ah ee warshadaha waxay fududaysay in la soo saaro dhar tayo weyn leh.
 SO: Fursadaha shaqo ee ay dowladda hoose u abuurtay dhalinyarada waxay wax weyn ka beddeleen nolosha.
 SO: Fadlan dhowr saacadaha shaqada rasmiga ah si aad u gudato waajibaadka ku saaran maalin kasta.
@@ -159,7 +159,7 @@ SO: Dabaysha qabow ee ka dhacaysa badda waxay siisaa raaxo dhab ah dadka u soo d
 SO: Hambalyo weyn waxaa mudan ardayda keentay dhibcihii ugu sarreeyay ee imtixaanka dugsiga.
 SO: Horumarka dalku wuxuu ku xiran yahay iskaashiga dowladda iyo shacabka Soomaaliyeed mar walba.
 SO: Hantida dadweynaha oo si daacad ah loo ilaaliyo waxay saldhig u tahay horumarka kaabayaasha.
-SO: Hooyada wanaagsan waxay mar kasta u taagan tay barbaarinta ubadka iyo barashada diinta.
+SO: Hooyada wanaagsan waxay mar kasta u taagan tahay barbaarinta ubadka iyo barashada diinta.
 SO: Hodan iyo saaxiibadeed waxay maanta aadeen isbitaalka guud si ay u booqdaan saaxiibaddood.
 SO: Horyaalka tartanka kubadda cagta waxaa ku guuleysatay kooxda dhallinyarada ee xaafadda.
 SO: Halgan joogto ah ayaa loogu jiraa dhismaha jidadka waaweyn ee isku xira gobollada.
@@ -198,7 +198,7 @@ SO: Jilbaha iyo xubnaha jirka waxay u baahan yihiin jimicsi joogto ah si caafima
 SO: Jidka aada dhanka dekedda waxaa ku xannaqay baabuur waaweyn oo xamuul ah saaka.
 SO: Janno waa halka ay hiigsanayaan dhammaan dadka rumeeyay Eebbe ee sameeya camalka suuban.
 SO: Jaziiradda yar ee ku taal badweynta Hindiya waxay caan ku tahay kalluunka qaniga ah.
-SO: Jidka laamiga ah ee dhowaan la dhisay wuxhou fududeeyay isku socodka gaadiidka iyo ganacsiga.
+SO: Jidka laamiga ah ee dhowaan la dhisay wuxuu fududeeyay isku socodka gaadiidka iyo ganacsiga.
 SO: Jaziiradaha quruxda badan ee u dhow xeebta waxay leeyihiin hawo aad u qabow oo fiican.
 SO: Beerta weyn ee bartamaha magaalada ku taal waa meel ay dadku u aadaan nasasho.
 SO: Jiirada dheer ee buurta dhaladeeda ku tiil waxay leedahay hawo aad u nadiif ah.
@@ -234,7 +234,7 @@ SO: Khilaafka u dhexeeya ganacsatada waxaa si nabad ah u xalliyay odayaasha dhaq
 SO: Khariidada rasmiga ah ee dalka waxay muujinaysaa xeebta dheer iyo kheyraadka dabiiciga.
 SO: Khidmadda laga qaado adeegyada caafimaadka waa in la yareeyo si loo caawiyo danyarta.
 SO: Khalkhal weyn ayaa ku yimid suuqyada ganacsiga ka dib markii dekeduhu xidhmeen.
-SO: Khamaarka iyo waxyaabaha maanka dooriya waxay burburiyaan mustaqbalka dhalinyarada.
+SO: Khamaarka iyo waxyaabaha maanka dooriya waxay burburiyaan mustalkalka dhalinyarada.
 SO: Khubarada caafimaadku waxay ku dardaarmaan in gacmaha la dhaqo kahor cunto kasta.
 SO: Khasab maahan in qof kasta uu barto cilmiga ku saabsan ganacsiga caalamiga ah.
 SO: Khayraadka dabiiciga ah ee dalkeennu leeyahay waa mid aad u baaxad weyn.
@@ -244,7 +244,7 @@ SO: Khasaaraha ka dhashay dabkii xalay ka kacay suuqa wuxuu ahaa mid aad u balla
 SO: Khadadka taleefannada ee magaalada ayaa dhowaan la hagaajiyay si isgaarsiintu u fiicnaato.
 SO: Khubaro ku xeeldheer arrimaha beeraha ayaa saaka kormeeray deegaanada webiga agtiisa ah.
 SO: Khasnadda dowladda waxaa lagu shubaa dhammaan dakhliga canshuuraha ee laga qaado suuqyada.
-SO: Khadka internetka ee ku xirmay dugsiga wuxuu aad u caawiyay ardayda wax barata.
+SO: Khadka isgaarsiinta ee ku xirmay dugsiga wuxuu aad u caawiyay ardayda wax barata.
 SO: Khilaafka u dhexeeya labada dhinac waxaa lagu soo afjaray wadahadal nabadeed oo guulaystay.
 SO: Labada qoys ee walaalaha ah waxay ku heshiiyeen nabad iyo wada hadal furan mar kasta.
 SO: Lixdan qoys oo barakacayaal ah ayaa helay raashin ku filan iyo bustayaal diiran.
@@ -315,7 +315,7 @@ SO: Oon weyn ayaa saameeyay geelii daaqayay dhulka fog ee buuraleyda dalkeenna e
 SO: Oodda xerada xoolaha waxaa saaka furay wiilka yar ee daryeela ariga iyo idaha.
 SO: Ooma waa meel ka fog magaalooyinka oo aan lahayn biyo iyo dhir dabiici ah.
 SO: Oogista nabadda deegaanka waa masuuliyad saaran odayaasha iyo maamulka dalka mar kasta.
-SO: Ooyinta gabadha yar ee dhalatay waxay farxad weyn u keentay dhammaan qoyska reer Xaji.
+SO: Ooyinta gabadha yar ee dhalatay waxay farxad weyn u keentay dhammaan qoyska reer Xaaji.
 SO: Oon daran awgeed socotada waxay ku qasbanaadeen inay ceelka ugu dhow waraabaan xoolaha.
 SO: Oodda adag ee beerta ku wareegsan waxay ka hortagtaa in dalaggu xumaado oo xooluhu cunaan.
 SO: Oogista masaajidka cusub ee xaafadda waxaa maalgeliyay ganacsato waddaniyiin ah oo caan ah.
@@ -323,13 +323,13 @@ SO: Ooyinta daciifka ah ee wiilka yar waxay muujinaysaa inuu qabo xanuun daran o
 SO: Oon daran ayaa ka dhashay dabaysha qalalan ee dhacaysa xilliga xagaaga kulul ee dalka.
 SO: Oodda guriga laga baxo waxaa lagu xiray bir adag si loogu sugo ammaanka reerka.
 SO: Qorraxda kulul ee dhuunta qallajisa waxay reer miyiga ku khasabtay in ay ceelka biyaha u guuraan.
-SO: Qoyska reer Xaji waxay caawa u dabbaaldegayaan dhalashada gabadha yar ee dhowaan dhalatay.
+SO: Qoyska reer Xaaji waxay caawa u dabbaaldegayaan dhalashada gabadha yar ee dhowaan dhalatay.
 SO: Qorista buugaagta suugaanta waxay qayb weyn ka qaadataa ilaalinta afkeena hooyo ee qaniga ah.
 SO: Qandho daran ayaa ku dhacday wiilka yar ka dib isbeddelkii cimilada ee saaka dhacay.
-SO: Qalabka farsamada casriga ah ee telefoonada gacantu wuxuu si weyn u fududeeyay isgaarsiinta dadka.
+SO: Qalabka farsamada casriga ah ee taleefanada gacantu wuxuu si weyn u fududeeyay isgaarsiinta dadka.
 SO: Qandaraaska dhismaha buundada weyn waxaa ku guulaystay shirkad waddani ah oo khibrad leh.
 SO: Qaadhaanka la isku daray waxaa lagu caawiyay qoysaskii ay dhibaatadu ka soo gaartay fatahaadda.
-SO: Qaab-dhismaha masaajidka weyn ee ku yaal bartamaha magaalada waa mid si heer sare ah loo naqshadeeyay.
+SO: Qaab dhismaha masaajidka weyn ee ku yaal bartamaha magaalada waa mid si heer sare ah loo naqshadeeyay.
 SO: Qaamuuska cusub ee uu qoray abwaanku wuxuu koobayaa dhammaan erayada adag ee hiddaha.
 SO: Qof kasta oo muwaadin ah waxaa ku waajib ah inuu ka qayb qaato nabadgelyada iyo xasiloonida.
 SO: Qorshaha wasaaradda maaliyadda waxaa ka mid ah in la kordhiyo aruurinta canshuuraha dalka.
@@ -350,7 +350,7 @@ SO: Roogga guduudan iyo daahyada dhaadheer waxay qurxiyeen qolka fadhiga ee guri
 SO: Raashinka nadiifka ah oo la cuno wuxuu dhowraa caafimaadka jirka aadanaha mar kasta.
 SO: Rukunka ugu muhiimsan ee caafimaadku waa ilaalinta nadaafadda cuntada iyo deegaanka ku dhow guriga.
 SO: Runtii dadaalka iyo samirka joogtada ah ayaa ah furaha koowaad ee lagu gaaro guul weyn.
-SO: Reerka weyn ee reer Xaji waxay caawa diyaariyeen casuumad ballaaran oo loogu talagalay asxaabta.
+SO: Reerka weyn ee reer Xaaji waxay caawa diyaariyeen casuumad ballaaran oo loogu talagalay asxaabta.
 SO: Roobka guga ee deegaanka ka curtay wuxuu dib u soo nooleeyay dhirtii engegtay.
 SO: Runtii qoraaga buuggan wuxuu adeegsaday erayo suugaaneed oo si qoto dheer u taabanaya dareenka.
 SO: Reerka oo daryeela waxbarashada ubadkooda waxay aasaasayaan mustaqbal ifaya oo aad u qiimo badan.
@@ -367,7 +367,7 @@ SO: Saadaasha hawada ee maanta waxay sheegaysaa roobab mahiigaan ah oo ka da'aya
 SO: Sababta uu odaygu u xanaaqay waxay ahayd dhalinyarada oo aan dhowrin ixtiraamka guud ee dhaqanka.
 SO: Saaxiibka wanaagsan wuxuu mar kasta kugu dhiirigeliyaa wanaagga iyo barashada cilmiga waxtarka leh.
 SO: Saldhigga booliska ee degmada wuxuu ku yaal bartamaha magaalada si nabadgelyo loo helo.
-SO: Shirkadda isgaarsiinta ayaa kordhisay xawaaraha internetka ee dalka oo dhan.
+SO: Shirkadda isgaarsiinta ayaa kordhisay xawaaraha khadka isgaarsiinta ee dalka oo dhan.
 SO: Sigaarka iyo buuriga oo la cabo waxay dhibaato ba'an u geystaan caafimaadka sanbabada iyo wadnaha.
 SO: Suugaanta Soomaaliyeed waxay qani ku tahay gabayo iyo maahmaahyo muujinaya dhaqanka suuban ee dadkeenna.
 SO: Sigaar cabiddu waxay keentaa cudurro halis ah oo dhibaato weyn u geysta hab dhiska neefsashada.
@@ -388,7 +388,7 @@ SO: Sharciga nidaamka waddooyinka wuxuu ilaaliyaa badbaadada darawallada iyo dad
 SO: Shalay galab waxaan booqday xeebta Liido oo dhalinyaro badani ku ciyaaraysay kubadda cagta.
 SO: Shirkadda biyaha ayaa dayactir ku samaysay dhuumihii waxyeeloobay ee ku dhawaa waddada.
 SO: Shabeelka guuxaya ee duurka dhex jooga wuxuu cabsi weyn ku abuuraa xayawaanada yaryar.
-SO: Shirkadda isgaarsiinta ee ugu weyn dalka ayaa soo bandhigtay adeeg internet oo aad u dheereeya.
+SO: Shirkadda isgaarsiinta ee ugu weyn dalka ayaa soo bandhigtay adeeg isgaarsiineed oo aad u dheereeya.
 SO: Sharciga nidaamka waddada wuxuu farayaa darawallada inay u hoggaansamaan calaamadaha laamiga.
 SO: Shabeelka ku dhuumanaya duurka wuxuu sugayaa waqtiga ku habboon ee uu ku ugaarsan karo.
 SO: Shirkadda kalluumeysiga ayaa soo iibisay doomo casri ah oo ku shaqeeya tamarta qorraxda.
@@ -401,9 +401,9 @@ SO: Shaqaalaha dhismaha ee ku jira hawsha waxay maanta dhagax dhigeen dugsi cusu
 SO: Tacliinta sare waxay u baahan yahay maalgelin ballaaran iyo macallimiin khibrad dheer u leh dalka.
 SO: Tamarta qorraxda ee la keydiyo waa il awoodeed oo aan dhammaanayn kana nadiifsan qiiqa wasakhda.
 SO: Tixgelinta rayiga dadka kale waxay dhalisaa is faham dhab ah iyo wada shaqayn wacan.
-SO: Taliyihii ciidanku wuxoo qaatay go'aan geesinimo leh oo lagu badbaadinayo nolosha dadka.
+SO: Taliyihii ciidanku wuxuu qaatay go'aan geesinimo leh oo lagu badbaadinayo nolosha dadka.
 SO: Tallaalka carruurta yaryar wuxuu ka bilaaban doonaa xarumaha caafimaadka ee dhammaan degmooyinka dalka.
-SO: Tartanka kooxaha kubadda cagta wuxuu berri ka dhici doonaa garoonka weyn ee caasimadda.
+SO: Tartanka kooxaha kubadda cagta wuxuu berrito ka dhici doonaa garoonka weyn ee caasimadda.
 SO: Tusaalooyinka fudud ee buugga ku qoran waxay sahlayaan in ardaydu si fiican u bartaan xisaabta.
 SO: Tukeha iyo diinka ayaa ku tartamay inay helaan cunto ku filan carruurtooda yaryar xilliga jilaalka.
 SO: Tixgelinta rayiga dadka kale waxay dhalisaa is faham iyo wada shaqayn dhab ah.
@@ -458,7 +458,7 @@ SO: Waqtigu waa seef oo kale haddii aadan jarina wuu ku jari doonaa nolosha macn
 SO: Xasan wuxuu subax kasta u kacaa raadinta xoolaha daaqaya buuraha dheer ee dalka dhexdiisa si fiican.
 SO: Xoolo dhaqatadu waxay inta badan ku tiirsan yihiin caanaha iyo hilibka xoolaha nool ee ay haystaan.
 SO: Xilli kasta oo la joogo dadku waxay jecel yihiin biyo nadiif ah iyo koronto joogto ah oo waxtar leh.
-SO: Xalay fiidkii waxaan booqday xeebta Liido halkaas oo dhallinyaro badani ku ciyaaraysay kubadda cagta saaka.
+SO: Xalaa fiidkii waxaan booqday xeebta Liido halkaas oo dhallinyaro badani ku ciyaaraysay kubadda cagta.
 SO: Xorriyadda iyo nabadgelyada dalka waxaa loo soo maray halgan aad u dheer oo qiimo badan dalka oo dhan.
 SO: Xafiiska maamulka sare ayaa soo saaray ogaysiis ku saabsan shaqaalaha dowladda iyo saacadaha shaqada rasmiga ah.
 SO: Ninka odayga ah ee reer miyiga ah wuxuu qabsaday dawaco dhuumanaysay xalay oo u dhoweyd xerada xoolaha.
@@ -491,7 +491,7 @@ SO: Yicibta dalkeenna ka baxda waxay door weyn ka qaadataa dhaqaalaha deegaanada
 SO: Yasmiin waxay dadaal u gashay inay dhammaystirto shaqada xafiiska maanta hubaal oo ay u heellan tahay inay si wanaagsan u guto.
 SO: Yoolalka wasaaradda maaliyadda waxaa ka mid ah dhimista canshuuraha laga qaado ganacsatada yar yar si loo dhiirigeliyo suuqa dalka.
 SO: Yicibta dabiiciga ah oo si fiican loo dubay waxay leeyahay dhadhan macaan oo martida loogu sooryeeyo miyiga inta badan mar walba.
-SO: Yasmiin waxay hooyadeed ka caawisay diyaarinta quraacda saaka ka ka hor inta aysan u amba bixin goobta shaqada ee ay u shaqayso.
+SO: Yasmiin waxay hooyadeed ka caawisay diyaarinta quraacda saaka ka hor inta aysan u amba bixin goobta shaqada ee ay u shaqayso.
 SO: Yoolka dhabta ah ee qoraagu wuxuu ahaa inuu sharxo taariikhda faca weyn ee hiddaha iyo dhaqanka Soomaaliyeed si ardaydu u bartaan.
 SO: Yoolka guud ee mashaariicda biyaha waa in dhammaan deegaanada miyiga ah laga hirgeliyo ceelal casri ah oo biyo nadiif ah laga helo.
 SO: Yasmiin waxay saaka maktabadda weyn ee jaamacadda ka akhrisay buugaagta cilmiga taariikhda iyo horumarka bulshada ee dalka Soomaaliya.
@@ -499,160 +499,158 @@ SO: Yicibta iyo midhaha dabiiciga ah ee dalkeenna ka baxa waxay leeyihiin faa'ii
 SO: Yoolka koowaad ee waxbarashadu waa in la soo saaro dhallinyaro aqoon iyo anshax leh oo dalka u horseedi kara horumar waara.
 SO: Yasmiin waxay maanta booqatay hooyadeed oo ku xanuunsan isbitaalka guud si ay u daryeesho oo u keento daawooyinka uu dhakhtarku qoray.
 SO: Yoolka fog ee qorshaha dowladda waa in dalka oo dhan laga hirgeliyo jidad laami ah oo isku xira dhammaan gobollada dalka.
-
 SO: Gabadha waxaa xeebta ku go'doomiyay waalidiintii soo korsaday.
 SO: Waxay ka tuureen xeebta iyagoon laba labayn si ay dambiga u qariyaan.
 SO: Xataa waxay gabadha ku tuureen badda moolka dheer.
-SO: Nasiib wanaag, haweenay dahsoon oo badda hoosteeda ku jirtay ayaa aragtay.
-SO: Waxay u yaacday dhankii gabadha, waxayna gashay jidhkeeda.
+SO: Nasiib wanaag haweenay dahsoon oo badda hoosteeda ku jirtay ayaa aragtay.
+SO: Waxay u yaacday dhankii gabadha waxayna gashay jidhkeeda.
 SO: Gabadhii ayaa si lama filaan ah uga soo muuqatay waalidkeed gadaashooda.
 SO: Labadii waalid ayaa aad u naxay markii ay arkeen gabadha.
 SO: Awood weyn ayaa ka soo burqatay hareeraha gabadha.
-SO: Markiiba, masduulaa rabaani ah ayaa ka soo muuqday gadaasheeda.
+SO: Markiiba masduulaa rabaani ah ayaa ka soo muuqday gadaasheeda.
 SO: Halyeeyadu waxay sheegaan in qofkii arka masduulaaga uu barako helayo.
 SO: Saddex ubax ku qor faallooyinka si aad nasiib u hesho mustaqbalka.
 SO: Waalidiintii soo korsaday ayaa indhaheeda hortooda ku baaba'ay.
 SO: Gabadhii ayaa xeebta ku miyir beeshay daciifnimo darteed.
 SO: Nin meesha marayay ayaa u soo gurmaday si uu u badbaadiyo.
 SO: Ninkii ayaa go'aansaday inuu neef ku afuufo si uu u soo nooleeyo.
-SO: Gabadhii waa soo kacday, laakiin waxay weyday awooddeedii sixirka.
-SO: Ninkii wuxuu u qaatay inay waalan tahay, wuuna iska tagay markiiba.
+SO: Gabadhii waa soo kacday laakiin waxay weyday awooddeedii sixirka.
+SO: Ninkii wuxuu u qaatay inay waalan tahay wuuna iska tagay markiiba.
 SO: Waxay ogaatay in luulkii masduulaaga uu ku jiro jidhka ninka.
 SO: Way ka daba tagtay si ay luulkeeda uga soo ceshato ninka.
-SO: Wiil yar ayaa u soo muuqday, wuxuuna uga digay inay taasi khatar tahay.
+SO: Wiil yar ayaa u soo muuqday wuxuuna uga digay inay taasi khatar tahay.
 SO: Kaliya waxay luulka heli kartaa haddii ninku uu jacayl u qaado.
 SO: Gabadhii waxay ku khasbaatay inay ninkii u raacdo shaqadiisii.
-SO: Naan kale oo ninka rabtay ayaa u qaatay in gabadhu waalan tahay.
-SO: Way ku digatay, waxayna ka codsatay inay koob kafee ah u keento.
+SO: Naag kale oo ninka rabtay ayaa u qaatay in gabadhu waalan tahay.
+SO: Way ku digatay waxayna ka codsatay inay koob bun ah u keento.
 SO: Gabadhii ayaa biyo qabow gacmaheeda ku karisay markiiba.
-SO: Koobkii ayay jajabisay, jajabkiina wuxuu dhaawacay naagtii kale.
-SO: Ninkii ayaa wax kasta arkay, wuxuuna weydiiyay waxa ay samaynayso.
+SO: Koobkii ayay jajabisay jajabkiina wuxuu dhaawacay naagtii kale.
+SO: Ninkii ayaa wax kasta arkay wuxuuna weydiiyay waxa ay samaynayso.
 SO: Gabadhii ayaa uga digtay ninka inuu u dhawaado dumar kale.
 SO: Ninkii wuxuu si cad u sheegay inuusan wax dareen ah u hayn gabadha.
 SO: Gabadhii waxay u sheegtay inay rabto wax laabtiisa ku jira.
-SO: Ninkii ayaa si khaldan u fahmay, isagoo u qaatay inay wadnihiisa rabto.
-SO: Waalidkii ninka ayaa si lama filaan ah u yimid, markaasay qabteen.
+SO: Ninkii ayaa si khaldan u fahmay isagoo u qaatay inay wadnihiisa rabto.
+SO: Waalidkii ninka ayaa si lama filaan ah u yimid markaasay qabteen.
 SO: Hooyadiis ayaa gacmaha u garaacday iyadoo ku faraxsan waxa ay aragtay.
-SO: Ninkii ayaa waalidkiis ka codsaday caawimaad, isagoo leh gabadhu waa waalan tahay.
-SO: Wiilkii yaraa ayaa soo orday, wuxuuna ninkii ugu yeeray ‘aabbo’.
-SO: Ninkii waa carooday, wuxuuna mooday inay jilaa soo kireysatay.
+SO: Ninkii ayaa waalidkiis ka codsaday caawimaad isagoo leh gabadhu waa waalan tahay.
+SO: Wiilkii yaraa ayaa soo orday wuxuuna ninkii ugu yeeray aabbo.
+SO: Ninkii waa carooday wuxuuna mooday inay jilaa soo kireysatay.
 SO: Markiiba hooyadiis ayaa koob biyo ah wejiga kaga shubtay ninkii.
 SO: Waxay ku adkaysatay in wiilkeedu mas'uul ka noqdo gabadha iyo wiilka.
 SO: Gabadhu waxay guriga si qarsoodi ah ugu xirtay kamarado.
-SO: Waxay bilowday saddex maalmood oo muuqaal toos ah oo qarsoodi ah.
+SO: Waxay bilowday baahin toos ah muddo saddex maalmood ah.
 SO: Waxay rabtay inay soo bandhigto wajiga dhabta ah ee hooyadeed.
 SO: Gabadhu waxay curyaan noqotay toban sano ka hor shil baabuur awgiis.
 SO: Hooyadeed ayaa xannaanaynaysay sannadahan oo dhan.
-SO: Deris ayaa baraha bulshada soo dhigay wanaagga hooyada.
+SO: Deris ayaa baraha isgaarsiinta soo dhigay wanaagga hooyada.
 SO: Dad badan ayaa ku qancay naxariista hooyonimo ee ay muujisay.
 SO: Waxaa lagu ammaanay inay tahay hooyada ugu wanaagsan caalamka.
 SO: Dadka oo dhan ayaa ka masayray gabadha hooyada wanaagsan haysata.
-SO: Ka dib, gabadhu waxay ku guulaysatay toban milyan oo doollar.
+SO: Ka dib gabadhu waxay ku guulaysatay toban milyan oo doolar.
 SO: Weriyayaasha ayaa weydiiyay sida ay lacagta u isticmaalayso.
 SO: Waxay go'aansatay inay lacagta siiso aabaheed oo dayacay.
 SO: Qofna ma fahmin sababta ay hooyadeed u diidday.
 SO: Weriyuhu wuxuu yiri hooyadaa ayaa ku daryeelaysay toban sano.
 SO: Aabahaana marnaba kuuma soo jeesan muddadaas.
 SO: Waxay isweydiiyeen sababta lacagta loogu diiday hooyada.
-SO: Gabadhu waxay sheegtay inay samayn doonto live stream saddex maalmood ah.
+SO: Gabadhu waxay sheegtay inay samayn doonto baahin toos ah muddo saddex maalmood ah.
 SO: Waxay rabtaa inay u sheegto sababta dhabta ah ee go'aankeeda.
-SO: Maalintii xigtay, hooyadu waxay timid guriga si ay u daryeesho.
+SO: Maalintii xigtay hooyadu waxay timid guriga si ay u daryeesho.
 SO: Waxay si taxaddar leh u duugtay lugaha gabadha.
 SO: Dadkii muuqaalka daawanayay ayaa aad u makhsuuday.
 SO: Laakiin gabadha kaliya ayaa ogeyd inaan wax kasta run ahayn.
-SO: Mar dambe, aabaha gabadha ayaa guriga ku soo laabtay.
+SO: Mar dambe aabaha gabadha ayaa guriga ku soo laabtay.
 SO: Hooyadu waxay ka codsatay inuu gabadha kor u qaado.
 SO: Aabuhu wuxuu yiri gabadhu aad bay u soo uraysaa.
 SO: Wuxuu ka cawday dhibka uu ku hayo gabadhan curyaanka ah.
-SO: Hooyadii ayaa la doodday, waxayna isku dayday inay cayriso.
-SO: Laakiin gabadhii ayaa joojisay, waxayna difaacday aabaheed.
+SO: Hooyadii ayaa la doodday waxayna isku dayday inay cayriso.
+SO: Laakiin gabadhii ayaa joojisay waxayna difaacday aabaheed.
 SO: Waxay tiri hooyadu xaq uma laha inay go'aan gaarto.
 SO: Dadkii daawanayay ma fahmin sababta ay aabaheed u raacayso.
-SO: Hooyadii ayaa raalligelin siisay, wayna u soo istaajisay.
+SO: Hooyadii ayaa raalligelin siisay wayna u soo istaajisay.
 SO: Gabadhii ayaa haddana hooyadeed ku eedaysay dhaawaceeda.
 SO: Daawadayaashu waxay ka xumaadeen dhaqanka xun ee gabadha.
 SO: Markaasay hooyadu casho u karsatay gabadha.
 SO: Gabadhu waxay muujisay qabow iyo naxariis darro.
-SO: Waxay diidday cuntadii, waxayna tiri ‘waan ku nacay’.
-SO: Deriskii ayaa yimid, waxayna gabadha ku eedeeyeen naxariis darro.
+SO: Waxay diidday cuntadii waxayna tiri waan ku nacay.
+SO: Deriskii ayaa yimid waxayna gabadha ku eedeeyeen naxariis darro.
 SO: Gabadhii ayaa weelkii dhulka ku tuurtay si caro leh.
 SO: Waxay tiri qofna uma oggoli inuu aabbahay caayo.
 SO: Hooyadii ayaa weelkii jabnaa ka gurtay si aamusnaan ah.
 SO: Ka dib gabadhii ayaa si kama' ah u daadisay khamrigii aabaheed.
 SO: Aabaha ayaa si caro leh u laaday kursigii curyaanka.
-SO: Hooyadu way difaacday, gacmaheeduna way ku dhaawacmeen.
+SO: Hooyadu way difaacday gacmaheeduna way ku dhaawacmeen.
 SO: Gabadhu haddana waxay tiri aabbahay ma laha wax qalad ah.
-SO: Maalintii saddexaad, hooyadu ugu dambayn waxay muujisay wajigeedii.
+SO: Maalintii saddexaad hooyadu ugu dambayn waxay muujisay wajigeedii.
 SO: Walaalkii yaraa wuxuu arkay walaalkiisii weynaa oo naag xambaarsan.
 SO: Wuxuu mooday in walaalkiisii weynaa uu ugu dambayn jacayl qaaday.
 SO: Ma uusan ogayn inay naagtu ahayd saaxiibtiis.
-SO: Maalintii u horraysay, wiilkii yaraa ayaa saaxiibtiis guriga keenay.
+SO: Maalintii u horraysay wiilkii yaraa ayaa saaxiibtiis guriga keenay.
 SO: Walaalkii weynaa ayaa markiiba gartay inay tahay jacaylkiisii hore.
-SO: Si uu walaalkii u farxo, runta ayuu ka qariyay.
+SO: Si uu walaalkii u farxo runta ayuu ka qariyay.
 SO: Maalin ayuu wiilkii yaraa ka codsatay inuu u xanaaneeyo gabadha.
 SO: Sababtoo ah wuxuu rabay inuu soo booqdo saaxiibtiisii hore.
-SO: Walaalkii weynaa waa diiday, laakiin kii yaraa waa iska tagay.
+SO: Walaalkii weynaa waa diiday laakiin kii yaraa waa iska tagay.
 SO: Kii weynaa ayaa go'aansaday inuu dib u hantiyo jacaylkiisii.
-SO: Wuxuu xirtay dharkii walaalkii, wuuna xanaaneeyay gabadha.
+SO: Wuxuu xirtay dharkii walaalkii wuuna xanaaneeyay gabadha.
 SO: Laakiin gabadhii waxay aragtay bar isha agteeda ku taal.
 SO: Waxay weydiisay inuu yahay walaalkii ka weyn saaxiibkeed.
-SO: Ninkii wuxuu yiri, ma xanuunka ayaa indhaha ku sirmaya.
-SO: Gabadhii waxay tiri, saaxiibkay bar kuma lahayn isha agteeda.
-SO: Markuu walaalkii yaraa soo noqday, wuxuu weydiiyay xaaladda gabadha.
-SO: Ninkii wuxuu yiri, wax yar baa ii dhinnaa in la i qabto.
-SO: Wuxuu ku yiri, bar isha ku sawiro, isna nadiifi.
+SO: Ninkii wuxuu yiri ma xanuunka ayaa indhaha ku sirmaya.
+SO: Gabadhii waxay tiri saaxiibkay bar kuma lahayn isha agteeda.
+SO: Markuu walaalkii yaraa soo noqday wuxuu weydiiyay xaaladda gabadha.
+SO: Ninkii wuxuu yiri wax yar baa ii dhinnaa in la i qabto.
+SO: Wuxuu ku yiri bar isha ku sawiro isna nadiifi.
 SO: Wiilkii yaraa wuxuu qoorta ku arkay raadad ay uga tagtay saaxiibtiisii hore.
-SO: Maalintii xigtay, wuxuu walaalkiis ka codsaday inuu mar kale u eego.
-SO: Wuxuu yiri, markan looma baahna inaad iska kay dhigto.
-SO: Ninkii wuxuu weydiiyay, miyaadan ka baqayn inay i jeclaato.
+SO: Maalintii xigtay wuxuu walaalkiis ka codsaday inuu mar kale u eego.
+SO: Wuxuu yiri markan looma baahna inaad iska kay dhigto.
+SO: Ninkii wuxuu weydiiyay miyaadan ka baqayn inay i jeclaato.
 SO: Wiilkii yaraa wuxuu ku kalsoonaa inay isaga uun jeceshahay.
 SO: Gabadhii ayaa la kulantay walaalkii weynaa markay soo baxday.
 SO: Isla markiiba waxay u aqoonsatay inuu yahay walaalkii saaxiibkeed.
-SO: Gabadhii waa gaajootay, waxayna weydiisay meeluu saaxiibkeed jiro.
-SO: Way la yaabtay inuu shaqo aaday, isagana uga tagay.
+SO: Gabadhii waa gaajootay waxayna weydiisay meel uu saaxiibkeed jiro.
+SO: Way la yaabtay inuu shaqo aaday isagana uga tagay.
 SO: Quraac ayay isla cuneen iyagoo guriga ku wada kaliyeystay.
 SO: Waxay ogaatay in ninkii qaboobaa uu dhab ahaan naxariis badnaa.
-SO: Markii dambe, ninkii ayaa gabadha geeyay goobteedii shaqada.
+SO: Markii dambe ninkii ayaa gabadha geeyay goobteedii shaqada.
 SO: Gabadhii way ka xumaatay inay kala tagaan markuu ka tagay.
-SO: Markii shaqadu dhammaatay, baraf xooggan ayaa bilaabay inuu da'o.
+SO: Markii shaqadu dhammaatay baraf xooggan ayaa bilaabay inuu da'o.
 SO: Saaxiibkeed taleefankii kama uusan qaban si uu u soo qaado.
 SO: Baabuur ayaa horteeda istaagay iyadoo barafku da'ayo.
 SO: Wuxuu ahaa walaalkii weynaa oo u yimid inuu qaado.
 SO: Hadda ayay gabadhu ogaatay in ninkeedu yahay madaxda shirkaddeeda.
-SO: Isagoo kalsooni ka muuqato, waxay xasuusatay markii ugu horraysay.
+SO: Isagoo kalsooni ka muuqato waxay xasuusatay markii ugu horraysay.
 SO: Qoyskeeda ayaa u qorsheeyay nin ka weyn laba iyo toban sano inay kulmaan.
 SO: Waxay si kama' ah u bixisay kabaheedii dhaadheeraa naxdin darteed.
-SO: Waxay isku dayday inay kabaha dib u soo ceshato, ninkiina waa arkay.
+SO: Waxay isku dayday inay kabaha dib u soo ceshato ninkiina waa arkay.
 SO: Ninkii ayaa si aamusnaan ah kabaha ugu soo celiyay cagaha gabadha.
-SO: Gabadhii way xishootay, mana garanayn wax ay samayso.
+SO: Gabadhii way xishootay mana garanayn wax ay samayso.
 SO: Makhaayaddii ayay ka baxday iyadoo marmarsiis ka dhiganaysa taleefan.
-SO: Markii ay dibadda u baxdayba, waxay sawir ka qaadday ninkii.
-SO: Sawirkii ayay u dirtay saaxiibteed, waxayna u sheegtay qisada ninka.
+SO: Markii ay dibadda u baxdayba waxay sawir ka qaadday ninkii.
+SO: Sawirkii ayay u dirtay saaxiibteed waxayna u sheegtay qisada ninka.
 SO: Ma aysan dareemin in ninkii uu dhabarkeeda soo istaagay.
-SO: Way turunturootay, waxayna si toos ah ugu dhacday gacmaha ninka.
+SO: Way turunturootay waxayna si toos ah ugu dhacday gacmaha ninka.
 SO: Aad bay u naxday markii ay ninkii hortooda ku aragtay.
-SO: Marmarsiis ayay samaysay, waxayna ku laabatay gudaha makhaayadda.
-SO: Mar dambe, qoyskeedii ayaa weydiiyay waxay ninka ka qabto.
-SO: Waxay is tiri mar uun baad guursan, markaasay aqbashay ninka.
-SO: Ninku wuxuu ula muuqday mid naxariis badan, markaasay guursatay.
-SO: Ninkiina wuxuu yiri waa gabadh qurux badan, guurkuna waa bisha dambe.
-SO: Habeenkaas, gabadhii waxay saaxiibteed kula kulantay baar.
-SO: Way sakhraantay, waxayna isku dayday inay wacdo darawalkeedii.
-SO: Si lama filaan ah, waxay si khaldan u wacday nambarkii ninka.
-SO: Muddo yar gudaheed, ninkii ayaa baarkii ugu yimid.
+SO: Marmarsiis ayay samaysay waxayna ku laabatay gudaha makhaayadda.
+SO: Mar dambe qoyskeedii ayaa weydiiyay waxay ninka ka qabto.
+SO: Waxay is tiri mar uun baad guursan markaasay aqbashay ninka.
+SO: Ninkiina wuxuu yiri waa gabadh qurux badan guurkuna waa bisha dambe.
+SO: Habeenkaas gabadhii waxay saaxiibteed kula kulantay baar.
+SO: Way sakhraantay waxayna isku dayday inay wacdo darawalkeedii.
+SO: Si lama filaan ah waxay si khaldan u wacday nambarkii ninka.
+SO: Muddo yar gudaheed ninkii ayaa baarkii ugu yimid.
 SO: Gabadhii ayaa raalligelin bixisay inay si khaldan u wacday.
 SO: Ninkii ayaa si aamusnaan ah jaakadkiisii u saaray garbaheeda.
-SO: Ka dib, baarkii ayuu ka kaxeeyay gabadhii oo gurigii geeyay.
+SO: Ka dib baarkii ayuu ka kaxeeyay gabadhii oo gurigii geeyay.
 SO: Gabadhii waxay si lama filaan ah ugu dhex lulootay gaariga dhexdiisa.
 SO: Ninkii ayaa gacmihiisa ku xambaaray ilaa gurigoodii.
 SO: Waalidiinteedii ayaa aad u walwalay markay arkeen xaaladdeeda.
-SO: Markuu qolkeeda geeyay, waalidkeed waxay ku amaaneen naxariistiisa.
+SO: Markuu qolkeeda geeyay waalidkeed waxay ku amaaneen naxariistiisa.
 SO: Ninkii ayaa si tartiib ah sariirta u saaray gabadhii.
-SO: Wuu u jilba joogsaday, wuxuuna ka bixiyay kabaheedii.
-SO: Jaakaddii ayuu ka bixiyay, ka dibna buste ayuu ku duubay.
-SO: Isagoo eegaya iyadoo hurudda, ninkii waa dhoolla caddeeyay.
-SO: Subaxdii, hooyadeed ayaa u sheegtay inay aadaan xafiiska guurka.
-SO: Markay sallaanka ka soo degtay, ninkii wuxuu ku wareeray quruxdeeda.
+SO: Wuxuu u jilba joogsaday wuxuuna ka bixiyay kabaheedii.
+SO: Jaakaddii ayuu ka bixiyay ka dibna buste ayuu ku duubay.
+SO: Isagoo eegaya iyadoo hurudda ninkii waa dhoolla caddeeyay.
+SO: Subaxdii hooyadeed ayaa u sheegtay inay aadaan xafiiska guurka.
+SO: Markay sallaanka ka soo degtay ninkii wuxuu ku wareeray quruxdeeda.
 SO: Labadoodii oo gacmaha is haysta ayaa aaday xafiiska guurka.
 SO: Waxay si rasmi ah u noqdeen nin iyo naag sharci ah.
 SO: Naag aan dhalaynin ayaa mar kale guursatay.
@@ -660,152 +658,152 @@ SO: Way naxday markay isku araktay lallabada uurka.
 SO: Toddobo sano ayay isku dayday inay uur qaaddo.
 SO: Qalabkii tijaabada uurka ayay qashinka ku tuurtay.
 SO: Marna ma malaynayn inay dhab ahaan uur leedahay.
-SO: Guurkeedii hore, waxaa loo sheegay inay dhalays tahay.
-SO: Saygeedii hore wuxuu yiri, uun adigaan ku rabaa.
+SO: Guurkeedii hore waxaa loo sheegay inay dhalays tahay.
+SO: Saygeedii hore wuxuu yiri uun adigaan ku rabaa.
 SO: Laakiin culayskii sodohdeed ayaa wax kasta beddelay.
 SO: Waxay muddo sannado ah u dhabar adaygtay xanuun badan.
 SO: Muraayadda horteeda ayay isku dhigi jirtay inay uur leedahay.
 SO: Ninkii ayaa ugu dambayn dalbaday furriin isagoo ooyaya.
-SO: Waxay dareentay eed, waxayna u rajaysay farxad.
-SO: Bil ka dib, waxay heshay kaadhka arooskiisa cusub.
-SO: Isagu nolol cusub ayuu bilaabay, iyaduna way iska keliyowday.
+SO: Waxay dareentay eed waxayna u rajaysay farxad.
+SO: Bil ka dib waxay heshay kaadhka arooskiisa cusub.
+SO: Isagu nolol cusub ayuu bilaabay iyaduna way iska keliyowday.
 SO: Maamulaheedii ayaa baray wiilkiisa oo isna aan dhalin.
 SO: Waxay is tiri qof adiga oo kale ah in la guursado waa fiican tahay.
-SO: Muddo yar ka dib, waxay noqdeen nin iyo naag sharci ah.
+SO: Muddo yar ka dib waxay noqdeen nin iyo naag sharci ah.
 SO: Waxay isula dhaqmi jireen sidii saaxiibo wada degan oo kale.
-SO: Afar bilood ka dib, waxay heshay farxad iyo guri cusub.
+SO: Afar bilood ka dib waxay heshay farxad iyo guri cusub.
 SO: Sodohdeeda cusub waxay ula dhaqmi jirtay sidii gabadheedii.
-SO: Subax ayay kacday, markaasay matag joojin weyday.
+SO: Subax ayay kacday markaasay matag joojin weyday.
 SO: Ninkii wuxuu arkay xaaskiisa oo isbitaalka ka baxaysa iyadoo ilaalo la socoto.
-SO: Markii hore ninku wuxuu mooday riyo, laakiin qolkii wuxuu ugu tegay isagoo maran.
-SO: Isla markiiba qolkii ayuu ka soo baxay, wuxuuna weydiiyay kalkaalisada meelay xaaskiisu aadday.
+SO: Markii hore ninku wuxuu mooday riyo laakiin qolkii wuxuu ugu tegay isagoo maran.
+SO: Isla markiiba qolkii ayuu ka soo baxay wuxuuna weydiiyay kalkaalisada meelay xaaskiisu aadday.
 SO: Kalkaalisadu waxay sheegtay inuu keligeed kaga tagay xaaskiisa oo u diiday cunto.
 SO: Waxaan oo dhan waxay dhaceen saddex maalmood ka hor.
 SO: Haweenaydii ayaa si kedis ah ugu dhibaatootay dhalmada intii ay umulaysay.
-SO: Xaaladdu waxay ahayd halis, waxayna u baahnayd saxiixa qoyska si loogu qalo.
+SO: Xaaladdu waxay ahayd halis waxayna u baahnayd saxiixa qoyska si loogu qalo.
 SO: Haweenaydii waxay ku qasbanaatay inay wacdo sodohdeed.
 SO: Sodohdu waxay la daawanaysay wiilka ay ayeeyada u tahay bandhig faneed.
 SO: Wiilkii ay ayeeyada u ahayd ayaa si degdeg ah ugu yiri ayeeyadiis teleefanka dhig.
 SO: Sodohdii ayaa isla markiiba teleefankii dhigtay.
-SO: Haweenaydii waxay wacday ninkeedii, laakiin waxay maqashay codka wiilkeeda.
+SO: Haweenaydii waxay wacday ninkeedii laakiin waxay maqashay codka wiilkeeda.
 SO: Wiilkii wuxuu ku qasbay aabihiis inuu teleefanka ku jaro.
 SO: Haweenaydii waxay ogaatay in ninkeeduna uu joogo bandhigga gabadha kale.
 SO: Gabi ahaanba way iska indhatireen iyadoo ku dhex jirta dhalmo adag.
-SO: Daqiiqaddan, haweenaydii gabi ahaanba way quusatay.
-SO: Maadaama aysan doorasho kale haysan, iyadaa saxiixday foomka ogolaanshaha qalliinka.
+SO: Daqiiqaddan haweenaydii gabi ahaanba way quusatay.
+SO: Maadaama aysan doorasho kale haysan iyadaa saxiixday foomka ogolaanshaha qalliinka.
 SO: Waxay hoos u go'aansatay inay kaligeed koriso ilmaha.
-SO: Ugu dambayntii, waxay weydiisatay furiin, laakiin ninkii wuxuu mooday inay ku kaftamayso.
-SO: Markii uu ninkii baxay, haweenaydii waxay ku heshiisay inay dib ugu laabato shaqada.
+SO: Ugu dambayntii waxay weydiisatay furiin laakiin ninkii wuxuu mooday inay ku kaftamayso.
+SO: Markii uu ninkii baxay haweenaydii waxay ku heshiisay inay dib ugu laabato shaqada.
 SO: Waxay nidar ku gashay inaanay marnaba shaqadeeda u hurin qoyskeeda mar kale.
-SO: Ka dib waxay tirtirtay dhammaan qaylo-dhaantii ku jirtay teleefankeeda.
-SO: Qaylo-dhaantan oo dhan waxaa loo mudeeyay sannadihii la soo dhaafay si loo daryeelo wiilkeeda.
+SO: Ka dib waxay tirtirtay dhammaan qaylo dhaantii ku jirtay teleefankeeda.
+SO: Qaylo dhaantan oo dhan waxaa loo mudeeyay sannadihii la soo dhaafay si loo daryeelo wiilkeeda.
 SO: Waxay ku qasbanayd inay kacdo lixda subax kasta si ay quraac u samayso.
-SO: Sannadihii la soo dhaafay waxay wax kasta u hurtay qoyskan, laakiin quudhsi bay kala kulantay.
+SO: Sannadihii la soo dhaafay waxay wax kasta u hurtay qoyskan laakiin quudhsi bay kala kulantay.
 SO: Ninkeedii marnaba ma uusan daryeeli jirin iyada.
-SO: Markasta oo ay gabadha kale soo wacdo, isla markiiba wuu ka tegi jiray.
-SO: Muddo dheer, danayn la'aanta qoyska waxay jebisay wadnaha haweenayda.
+SO: Markasta oo ay gabadha kale soo wacdo isla markiiba wuu ka tegi jiray.
+SO: Muddo dheer danayn la'aanta qoyska waxay jebisay wadnaha haweenayda.
 SO: Waxaa looga tagay keligeed cisbitaalka iyadoo u dhabar adaygaysa xanuunka nabarkeeda.
 SO: Xataa kalkaalisadii ayaa ku eedaysay ninka haweenayda inuusan la joogin.
-SO: Ugu dambayntii, haweenaydii waxay tirtirtay dhammaan lambaradii ninkeeda.
-SO: Daqiiqaddan, koox ilaalo ah ayaa ka soo muuqday albaabka qolka bukaanada.
+SO: Ugu dambayntii haweenaydii waxay tirtirtay dhammaan lambaradii ninkeeda.
+SO: Daqiiqaddan koox ilaalo ah ayaa ka soo muuqday albaabka qolka bukaanada.
 SO: Waxay noqotay in arrintan oo dhan uu soo agaasimay macallinka haweenayda.
 SO: Haweenaydii waxay xasuusatay wakhtigii xanuunka badnaa ee miiska qalliinka iyo erayadii ninkeedii.
-SO: Daqiiqaddan, waxay go'aansatay inay qoyskan ka tagto waligeed.
-SO: Ninku wuxuu wehelinayay gabadha kale, ilaa uu ka arkay dhabarka xaaskiisa oo baxaysa.
-SO: Laakiin, isagu ma uusan ogayn in xaaskiisu ay ka tagtay waligeed.
-SO: Gabadhu waxay timid inay shaqo booyasnimo u tartanto, laakiin kuwii kale ayaa u dhar labisnaa.
-SO: Ma ay fahmin shuruudahan adag, laakiin waxay ku kalsoonayd inay ku baasayso waraysiga.
-SO: Ka dib, waxay aragtay hablihii kale oo dhan oo ku fashilmay waraysigii shaqada.
+SO: Daqiiqaddan waxay go'aansatay inay qoyskan ka tagto waligeed.
+SO: Ninku wuxuu wehelinayay gabadha kale ilaa uu ka arkay dhabarka xaaskiisa oo baxaysa.
+SO: Laakiin isagu ma uusan ogayn in xaaskiisu ay ka tagtay waligeed.
+SO: Gabadhu waxay timid inay shaqo booyasnimo u tartanto laakiin kuwii kale ayaa u dhar labisnaa.
+SO: Ma ay fahmin shuruudahan adag laakiin waxay ku kalsoonayd inay ku baasayso waraysiga.
+SO: Ka dib waxay aragtay hablihii kale oo dhan oo ku fashilmay waraysigii shaqada.
 SO: Gabadhii ayaa si degdeg ah u qoratay dhammaan macluumaadkan.
-SO: Ugu dambayntii, ninkii wuxuu ogaaday in gabadhaas oo kaliya ay soo hartay.
-SO: Gabadhii ayaa ku soo carartay si ay isu barto, iyadoo sheegtay inay ka wanaagsan tahay dadka kale.
-SO: Ninkii ayaa yiri, sidee ku noqon kartaa mid aad u wanaagsan adoo dhar noocan ah qaba.
-SO: Markay eedadiis soo muuqatay, waxay weydiisay inuu gabadha saaxiibtiis u dooranayo.
+SO: Ugu dambayntii ninkii wuxuu ogaaday in gabadhaas oo kaliya ay soo hartay.
+SO: Gabadhii ayaa ku soo carartay si ay isu barto iyadoo sheegtay inay ka wanaagsan tahay dadka kale.
+SO: Ninkii ayaa yiri sidee ku noqon kartaa mid aad u wanaagsan adoo dhar noocan ah qaba.
+SO: Markay eedadiis soo muuqatay waxay weydiisay inuu gabadha saaxiibtiis u dooranayo.
 SO: Ninkii wuxuu gabadhii u sheegay inuu shaqada siinayo haddii ay guriga ka saari karto eedadood.
 SO: Gabadhii ayaa si degdeg ah boorsadeeda uga baartay waxyaabo ay isticmaasho.
-SO: Markiiba, waxay soo bixisay dhalo sunta cayayaanka ah, waxayna ku cayrisay eedadii.
+SO: Markiiba waxay soo bixisay dhalo sunta cayayaanka ah waxayna ku cayrisay eedadii.
 SO: Ninkii aad ayuu ula yaabay markuu arkay dhacdadan.
-SO: Ka dib, waxay u sharaxday inay dhibaatada guriga ku xallisay dhalo biyo ah oo la isku buufiyo.
+SO: Ka dib waxay u sharaxday inay dhibaatada guriga ku xallisay dhalo biyo ah oo la isku buufiyo.
 SO: Ninkii wuxuu go'aansaday inuu gabadha u qaato booyasnimada isla goobtii.
-SO: Ka dib wuxuu u dhiibay kaadhka bangiga, isagoo u sheegay inay dhar cusub soo iibsato.
+SO: Ka dib wuxuu u dhiibay kaadhka bangiga isagoo u sheegay inay dhar cusub soo iibsato.
 SO: Ka dib waxaa la geeyay qolkeedii gaarka ahaa.
 SO: Gabadhii aad bay ula yaabtay markay arkay naqshadda qaaliga ah ee meesha ku taal.
 SO: Laakiin mudalabka ayaa u sheegay in ninku uusan seexan karin lacagtiisa badan darteed.
 SO: Sidaas darteed gabadhii waxay go'aansatay inay u samayso adeeg habeenimo.
 SO: Ka dib waxay timid albaabka qolka ninka.
 SO: Laakiin ninkii wuxuu u diiday inay qolkiisa gasho.
-SO: Si kasta oo ay gabadhu isku dayday inay shaqadeeda dhameystirto, ninkii wuu u diiday.
+SO: Si kasta oo ay gabadhu isku dayday inay shaqadeeda dhameystirto ninkii wuu u diiday.
 SO: Maalintii xigtay ninkii wuxuu la yaabay gabadhii oo dhar cusub qabta oo muraayadda nadiifinaysa.
-SO: Wuxuu weydiiyay sababta ay u labisatay caynkan, gabadhiina waxay tiri waa dharkii shaqada.
-SO: Ninkii wuxuu ku yiri beddel dharka, haddii kale guriga ka bax.
+SO: Wuxuu weydiiyay sababta ay u labisatay caynkan gabadhiina waxay tiri waa dharkii shaqada.
+SO: Ninkii wuxuu ku yiri beddel dharka haddii kale guriga ka bax.
 SO: Gabadhii waxay u beddelatay goono waxayna sii wadatay shaqadeeda.
-SO: Markuu ninkii guriga ku soo laabtay, boorsadiisii ayaa si lama filaan ah u luntay.
-SO: Markiiba, muraayadihii indhaha ee qorraxda na waa laga dafay.
+SO: Markuu ninkii guriga ku soo laabtay boorsadiisii ayaa si lama filaan ah u luntay.
+SO: Markiiba muraayadihii indhaha ee qorraxda na waa laga dafay.
 SO: Ka dib xataa dharkii baa laga siibay.
-SO: Wuxuu gabadhii ku yiri iska kay daa, laakiin waxay u xirtay dharkii hurdada.
+SO: Wuxuu gabadhii ku yiri iska kay daa laakiin waxay u xirtay dharkii hurdada.
 SO: Ka dib waxay ninkii u samaysay cunto.
-SO: Markuu cuntadii cunay ka dib, ninku wuxuu ogaaday inay aad u macaan tahay.
-SO: Xataa kooftada ayaa rumaysan weydahay, sababtoo ah ninku marnaba ma dhamayn jirin cuntadooda.
-SO: Gabadhu waxay waxan u samaynaysay sababtoo ah mushaharka bishii wuxuu ahaa konton kun oo doollar.
-SO: Riyadeeda kaliya waxay ahayd inay hesho boqol milyan oo doollar.
-SO: Gabadhii ayaa wacday ninkeedii si ay uga amaahato shan boqol oo doollar.
-SO: Si lama filaan ah, ninkeedii wuxuu si toos ah ugu soo wareejiyay hal milyan oo doollar.
+SO: Markuu cuntadii cunay ka dib ninku wuxuu ogaaday inay aad u macaan tahay.
+SO: Xataa cunto kariyaha ayaa rumaysan waayay sababtoo ah ninku marnaba ma dhamayn jirin cuntadooda.
+SO: Gabadhu waxay waxan u samaynaysay sababtoo ah mushaharka bishii wuxuu ahaa konton kun oo doolar.
+SO: Riyadeeda kaliya waxay ahayd inay hesho boqol milyan oo doolar.
+SO: Gabadhii ayaa wacday ninkeedii si ay uga amaahato shan boqol oo doolar.
+SO: Si lama filaan ah ninkeedii wuxuu si toos ah ugu soo wareejiyay hal milyan oo doolar.
 SO: Waxay la yaabtay sababta ninkeedu u yahay qof hantiile ah intaas le'eg.
-SO: Waxay u tagtay saaxiibka ninkeeda, si ay u weydiisato aqoonsigiisa dhabta ah.
-SO: Waxay la fajacday markii saaxiibkiis uu u sheegay in ninku yahay bilyaneer.
+SO: Waxay u tagtay saaxiibka ninkeeda si ay u weydiisato aqoonsigiisa dhabta ah.
+SO: Waxay la fajacday markii saaxiibkiis uu u sheegay in ninku yahay maalqabeen weyn.
 SO: Gabadhii way naxday oo xataa eray way oran weyday markii ay hadalkan maqashay.
-SO: Marna ma ay filayn in ninkeeda ay hadda is guursadeen uu yahay bilyaneer.
+SO: Marna ma ay filayn in ninkeeda ay hadda is guursadeen uu yahay maalqabeen weyn.
 SO: Wax kasta waxay ku bilowdeen saddex maalmood ka hor.
 SO: Dumashideed ayaa u soo bandhigtay nin dhakhtar ah oo lacag badan qaata.
 SO: Gabadhu ma ay diidi karin qorshaha ay u dhigeen dumashideed iyo waalidkeed.
 SO: Maalintii xigtay waxay aaday cisbitaalka si ay u la kulanto dhakhtarka.
-SO: Aad bay ula yaabtay markay aragtay ninkii, sababtoo ah wuxuu ka duwanaa sawirkiisa.
-SO: Ninkii wuxuu yiri dhab ahaan baan ka qurux badanahay, laakiin gabadhu way neefsatay.
-SO: Si kedis ah, waxay aragtay dhakhtar qurux badan oo dhex maraya cisbitaalka.
-SO: Isla goobtii ayay ku diidday ninkii guur-doonka ahaa, wayna ka tagtay markiiba.
+SO: Aad bay ula yaabtay markay aragtay ninkii sababtoo ah wuxuu ka duwanaa sawirkiisa.
+SO: Ninkii wuxuu yiri dhab ahaan baan ka qurux badanahay laakiin gabadhu way necebatay.
+SO: Si kedis ah waxay aragtay dhakhtar qurux badan oo dhex maraya cisbitaalka.
+SO: Isla goobtii ayay ku diidday ninkii guur doonka ahaa wayna ka tagtay markiiba.
 SO: Ka dib waxay gashay xafiiskii dhakhtarka quruxda badnaa iyadoo iska dhigaysa bukaan xanuunsan.
 SO: Labadoodii waxay isku barteen sheeko kooban ka dib.
 SO: Ninkii wuxuu gabadhii siiyay dhar haddiyad ah.
 SO: Gabadhii waxay u muuqatay mid aad u qurux badan markii ay dharkii cusbaa u beddelatay.
-SO: Ninkii wuxuu jacayl u qaaday gabadha, laakiin waxaa canaanatay dumashideed markay soo noqotay.
+SO: Ninkii wuxuu jacayl u qaaday gabadha laakiin waxaa canaanatay dumashideed markay soo noqotay.
 SO: Gabadhu si cad ayay u tiri ma aanan jeclaysan ninkaas.
-SO: Dumashideed ayaa dharbaaxo kaga dhufatay, waxayna ku amartay inay dhakhtarka guursato.
-SO: Gabadhu waxay tiri ma rabo guur, laakiin dumashideed ayaa qolka ku xirtay.
+SO: Dumashideed ayaa dharbaaxo kaga dhufatay waxayna ku amartay inay dhakhtarka guursato.
+SO: Gabadhu waxay tiri ma rabo guur laakiin dumashideed ayaa qolka ku xirtay.
 SO: Si kasta oo ay gabadhii u barisay waxba uma aysan tarin.
-SO: Ugu dambayntii, gabadhii waxay wacday dhakhtarka, waxayna u sheegtay inay rabto guur degdeg ah.
+SO: Ugu dambayntii gabadhii waxay wacday dhakhtarka waxayna u sheegtay inay rabto guur degdeg ah.
 SO: Waxay kaloo weydiisay in ninku uu diyaar u yahay inuu guursado.
 SO: Ninkii wuxuu joojiyay shirkii iyo shaqadiisii si uu u raadiyo gabadha.
 SO: Gabadhu waxay rabtay inay ka baxsato qoyskan naxariis darra ah.
-SO: Waxay go'aansatay inay daaqadda ka baxdo, laakiin canqowga ayaa ka fashilmay.
+SO: Waxay go'aansatay inay daaqadda ka baxdo laakiin canqowga ayaa ka fashilmay.
 SO: Weli way u dhabar adaygaysay xanuunka si ay ula kulanto ninka.
 SO: Gabadhu waxay ninkii u sheegtay inaanay waxba ka rabin haddii ay is guursadaan.
-SO: Waxay u sharaxday inaanay wax lacag ah haysan, laga yaabana inay gurigiisa degto.
+SO: Waxay u sharaxday inaanay wax lacag ah haysan laga yaabana inay gurigiisa degto.
 SO: Waxay kaloo weydiisay ninka inuu dhab ahaan diyaar u yahay inuu guursado.
 SO: Ninkii ayaa si adag u laab galiyay markay hadalka dhameysay ka dib.
 SO: Gabadhii waxay dareentay xishood weyn markay eegtay ninka horteeda jooga.
 SO: Waxay aadeen inay dhamaystiraan diiwaangelinta guurka markiiba.
 SO: Gabadhu ma ay rumaysan karin inay guursatay nin ay garanayso saddex maalmood kaliya.
-SO: Sidas ayayna ku dhacday sheekadii ku jirtay bilowga muuqaalka.
+SO: Sidaas ayayna ku dhacday sheekadii ku jirtay bilowga muuqaalka.
 SO: Gabadhii waxay jiiftay barkadda dabaasha agteeda iyadoo ku raaxaysanaysa masaajeenta jirkeeda.
-SO: Waxay tiri haddii ragga oo dhan ay baaba'aan, waxaan dooran lahaa daanyeerka.
-SO: Si kedis ah, ninkii u doonana ayaa si aamusnaan ah dhabarkeeda uga soo muuqday.
+SO: Waxay tiri haddii ragga oo dhan ay baaba'aan waxaan dooran lahaa daanyeerka.
+SO: Si kedis ah ninkii u doonana ayaa si aamusnaan ah dhabarkeeda uga soo muuqday.
 SO: Gabadhu ma ay ogayn in ninkeedii uu booska galay.
-SO: Daqiiqaddan, waxay weli si farxad leh ugula sheekaysanaysay gabadha dhibka ninkeeda.
+SO: Daqiiqaddan waxay weli si farxad leh ugula sheekaysanaysay gabadha dhibka ninkeeda.
 SO: Xataa waxay tiri waxaan caawa ballan la leeyahay nin kale.
 SO: Ninkii u doonana ayaa si daran u carooday markii uu erayadeeda maqallay ka dib.
 SO: Tunka ayuu kaga dhegay gabadhii wuxuuna weydiiyay waxa ay samaynayso.
 SO: Gabadhii ayaa si naxdin leh u qaylisay isla markii ay maqashay codkiisa.
-SO: Waxay weydiisay sababta uu u yimid, ninkiina wuxuu weydiiyay inay ku raaxaysanayso.
-SO: Gabadhii ayaa tiri meeshan anigaa kiraystay, haddana iska tag.
-SO: Si ay uga fogaato ninkeeda, gabadhii ayaa si qarsoodi ah uga baxday guriga.
-SO: Markii ninkii soo noqday, wuxuu ugu tegay shukumaan kaliya oo meesha yaala.
+SO: Waxay weydiisay sababta uu u yimid ninkiina wuxuu weydiiyay inay ku raaxaysanayso.
+SO: Gabadhii ayaa tiri meeshan anigaa kiraystay haddana iska tag.
+SO: Si ay uga fogaato ninkeeda gabadhii ayaa si qarsoodi ah uga baxday guriga.
+SO: Markii ninkii soo noqday wuxuu ugu tegay shukumaan kaliya oo meesha yaala.
 SO: Waxay noqotay in gabadha iyo ninkan ay wada koreen ilaa yaraantoodii.
 SO: Ninku wuxuu had iyo jeer jeclaa inuu gabadha dhibo si ula kac ah.
-SO: Berisamaadkii dugsiga sare, gabadhu waxay si qarsoodi ah waraaq jacayl ah ugu qortay wiil ay jeclayd.
+SO: Berisamaadkii dugsiga sare gabadhu waxay si qarsoodi ah waraaq jacayl ah ugu qortay wiil ay jeclayd.
 SO: Ninkii ayaa waraaqdii jacaylka ahayd u dhiibay macallinkooda markiiba.
 SO: Gabadhii waxaa si adag u canaanatay macallinka dhacdadan darteed.
-SO: Wixii ka dambeeyay wakhtigaas, waxay si daran u neefsatay ninkan iswayniya.
-SO: Sannado ka dib, gabadhii ayaa si kama' ah u cabtay khamri aad u badan.
+SO: Wixii ka dambeeyay wakhtigaas waxay si daran u necebatay ninkan iswayniya.
+SO: Sannado ka dib gabadhii ayaa si kama' ah u cabtay khamri aad u badan.
 SO: Labadoodii waxay ku dambeeyeen inay wada qaataan habeen gaar ah.
 SO: Gabadhii aad bay uga qoomamaysay waxa dhex maray iyada iyo ninka.
 SO: Si caro leh ayay dharkeeda u qaadatay waxayna isu diyaarisay inay tagto.
@@ -813,70 +811,70 @@ SO: Si lama filaan ah ayay ula kulantay waalidkii ninka.
 SO: Aad bay u farxeen markay arkeen labadooda oo wada jooga.
 SO: Isla markiiba waxay waceen waalidkii gabadha si ay ugala hadlaan guurkooda.
 SO: Gabadhu waxay ogaatay inay nafteeda gelisay dhibaato weyn.
-SO: Muddo yar gudaheed, waalidiintii labada dhinac ayaa u fariistay inay ka sheekeystaan arooskooda.
-SO: Gabadhii waa diidday inay ninka guursato, laakiin ninkii wuxuu yiri waa wax fiican.
+SO: Muddo yar gudaheed waalidiintii labada dhinac ayaa u fariistay inay ka sheekeystaan arooskooda.
+SO: Gabadhii waa diidday inay ninka guursato laakiin ninkii wuxuu yiri waa wax fiican.
 SO: Gabadhii waa dhoolla caddeysay waxayna qiratay inay haysato qof ay jeceshahay.
 SO: Xataa waxay caayday ninkii iyadoo ugu yeertay daanyeer fool xun.
-SO: Ugu dambayntii, gurigii ninka ayay ka baxday in kastoo dadku isku dayeen inay joojiyaan.
+SO: Ugu dambayntii gurigii ninka ayay ka baxday in kastoo dadku isku dayeen inay joojiyaan.
 SO: Marna ma ay guursan doonto ninkan nolosheeda inta ka dhiman.
 SO: Ninkiina wuxuu go'aansaday inuu si habboon u edbiyo gabadhan madaxa adag.
-SO: Sidaas darteed, wuxuu gabadhii ugu tegay iyadoo ku dhuumanaysa gurigii weynaa.
-SO: Ka dib, gabadhii ayaa teleefankii ninka ku jartay iyadoo ku qanacsan go'aankeeda.
+SO: Sidaas darteed wuxuu gabadhii ugu tegay iyadoo ku dhuumanaysa gurigii weynaa.
+SO: Ka dib gabadhii ayaa teleefankii ninka ku jartay iyadoo ku qanacsan go'aankeeda.
 SO: Waxay aadday inay ka qayb gasho bandhigga dahabka iyo luulka.
 SO: Waxay si kama' ah ugu dhacday naag meesha joogtay.
 SO: Waxay noqotay in naagtu ay ahayd gabadh ay isku fasal ahaayeen jaamacadda.
 SO: Naagtii waxay u qaadatay in gabadhu ay ninka si qarsoodi ah halkan ugu soo raacday.
 SO: Gabadhii waxay rabtay inay ka cabato ninka dhibka badan.
 SO: Ninkii ayaa si toos ah uga soo muuqday goobtii bandhigga daqiiqaddii xigtay.
-SO: Gabadhani aad bay u yaab badantahay, si ay isu oohiso waxay iska dharbaaxday wejiga.
-SO: Laakiin markay taasi ku filnaan weydahay, waxay isticmaashay basal si ay u ooydo.
-SO: Saamaynteedu kuma koobnayn gabadha kaliya, xataa maareeyihii ayaa bilaabay inuu ilmeeyo.
-SO: Gabadhani waa amiirad ka tirsan qabiilka badda, waxayna badbaadisay nolosha mudane Gu.
+SO: Gabadhani aad bay u yaab badantahay si ay isu oohiso waxay iska dharbaaxday wejiga.
+SO: Laakiin markay taasi ku filnaan weydahay waxay isticmaashay basal si ay u ooydo.
+SO: Saamaynteedu kuma koobnayn gabadha kaliya xataa maareeyihii ayaa bilaabay inuu ilmeeyo.
+SO: Gabadhani waa amiirad ka tirsan qabiilka badda waxayna badbaadisay nolosha mudane Gu.
 SO: Laakiin sheygii barakaysnaa ee badda wuxuu si khaldan ugu dhex haray mudane Gu jidhkiisa.
 SO: Sidaas darteed gabadhii waxaa laga soo cayriyay badda si ay u soo raadiso sheygii barakaysnaa.
-SO: La'aanta isha badda, midna sixirkeedu ma uusan shaqaynayn.
-SO: Intay raadinaysay sheygii barakaysnaa, ilaaladii ayaa u qaatay inay tahay tuug markaasay eryadeen.
-SO: Markay taasi aragtay, gabadhii ayaa si cabsi leh u qaylisay iyadoo leh ii gargaara.
-SO: Daqiiqaddii xigtayba si mucjiso ah, mudane Gu ayaa si lama filaan ah horteeda uga soo muuqday.
+SO: La'aanta isha badda midna sixirkeedu ma uusan shaqaynayn.
+SO: Intay raadinaysay sheygii barakaysnaa ilaaladii ayaa u qaatay inay tahay tuug markaasay eryadeen.
+SO: Markay taasi aragtay gabadhii ayaa si cabsi leh u qaylisay iyadoo leh ii gargaara.
+SO: Daqiiqaddii xigtayba si mucjiso ah mudane Gu ayaa si lama filaan ah horteeda uga soo muuqday.
 SO: Isagoo la yaaban mudane Gu wuxuu weydiiyay gabadha sidii uu meesha ku yimid.
-SO: Gabadhii ayaa u sheegtay runta, mudane Guna aad ayuu ula yaabay markuu arkay sheygii.
-SO: Laakiin ka hor inta uusan waxba oran, ilaaladii ayaa gabadhii dibadda u tuuray.
+SO: Gabadhii ayaa u sheegtay runta mudane Guna aad ayuu ula yaabay markuu arkay sheygii.
+SO: Laakiin ka hor inta uusan waxba oran ilaaladii ayaa gabadhii dibadda u tuuray.
 SO: Gabadhu waxay kaliya rabtay inay dib u hesho isha badda.
-SO: Waxay xasuusatay in markay ooyaysay, mudane Gu uu si lama filaan ah horteeda u yimid.
+SO: Waxay xasuusatay in markay ooyaysay mudane Gu uu si lama filaan ah horteeda u yimid.
 SO: Sidaas darteed ayaa ay hadda u bilowday inay isku daydo inay nafteeda ka oohiso.
-SO: Mayd dhedig ah ayaa la keenay, sababtao dhimashadeeduna waxay ahayd mid aad u yaab badan.
-SO: Kala goysyada lugaheeda dhamaantood way burbursanaayeen, laakiin ma jirin dhaawacyo dibadda ah.
+SO: Mayd dhedig ah ayaa la keenay sababta dhimashadeeduna waxay ahayd mid aad u yaab badan.
+SO: Kala goysyada lugaheeda dhamaantood way burbursanaayeen laakiin ma jirin dhaawacyo dibadda ah.
 SO: Indhaheeda madoobaaday waxay muujinayeen inay dhimatay dhowr maalmood ka hor.
-SO: Haddana, markii uu dhakhtarku jaray maqaarkeeda, dhiiggii soo baxay wuxuu ahaa mid wali cusub.
+SO: Haddana markii uu dhakhtarku jaray maqaarkeeda dhiiggii soo baxay wuxuu ahaa mid wali cusub.
 SO: Tani waxay muujinaysay inay hadda uun dhimatay.
 SO: Waxa ka sii naxdin badnaa waxay ahayd in haweenayda carrabka si arxan darro ah looga gooyay.
-SO: Dhakhtarku wuxuu qiyaasay in la afduubay iyadoo nool, loona xiray gacmaha iyo lugaha.
+SO: Dhakhtarku wuxuu qiyaasay in la afduubay iyadoo nool loona xiray gacmaha iyo lugaha.
 SO: Carrabka ayaa laga gooyay si looga ilaaliyo inay wax dhawaaq ah samayso.
-SO: Si kastaba ha ahaatee, midna kuwan ma ahayn dhaawacyo horseedi kara dhimasho.
-SO: Si loo ogaado sababta dhabta ah ee dhimashada, waxaa lagama maarmaan ahayd in maydka la qalo.
-SO: Markii uu dhakhtarku furay sambabada haweenayda, wuxuu ogaaday inay aad u madoobaadeen.
-SO: Markii uu wadnaheeda soo saaray, wuxuu ogaaday inay ku yaallaan dhaawacyo badan oo mindi ah.
+SO: Si kastaba ha ahaatee midna kuwan ma ahayn dhaawacyo horseedi kara dhimasho.
+SO: Si loo ogaado sababta dhabta ah ee dhimashada waxaa lagama maarmaan ahayd in maydka la qalo.
+SO: Markii uu dhakhtarku furay sambabada haweenayda wuxuu ogaaday inay aad u madoobaadeen.
+SO: Markii uu wadnaheeda soo saaray wuxuu ogaaday inay ku yaallaan dhaawacyo badan oo mindi ah.
 SO: Dhakhtarku si ka sii daran ayuu u wareeray.
-SO: Xubnaha gudaha ayaa aad u dhaawacnaa, haddana ma jirin dhaawac dibadda ka muuqda.
-SO: Isla markii ay qaliinka maydka sii wadi rabeen, ayaa waxaa dibadda ka yimid dhawaaq qariib ah.
-SO: Jack ayaa u baxay inuu soo eego, isagoo naxsan ayuu arkay qof marinka taagan.
-SO: Si tartiib ah ayuu ugu dhawaaday, laakiin marinku wuxuu ahaa mid madhan.
-SO: Markuu Jack ku soo laabtay qolka, wuxuu ka naxay kabadhkii barafka ee furmay.
-SO: Dhacdooyinka is xigxiga ee qariibka ah ayaa Jack cabsi weyn ku beeray.
+SO: Xubnaha gudaha ayaa aad u dhaawacnaa haddana ma jirin dhaawac dibadda ka muuqda.
+SO: Isla markii ay qaliinka maydka sii wadi rabeen ayaa waxaa dibadda ka yimid dhawaaq qariib ah.
+SO: Jaamac ayaa u baxay inuu soo eego isagoo naxsan ayuu arkay qof marinka taagan.
+SO: Si tartiib ah ayuu ugu dhawaaday laakiin marinku wuxuu ahaa mid madhan.
+SO: Markuu Jaamac ku soo laabtay qolka wuxuu ka naxay kabadhkii barafka ee furmay.
+SO: Dhacdooyinka is xigxiga ee qariibka ah ayaa Jaamac cabsi weyn ku beeray.
 SO: Si degdeg ah ayuu u xiray kabadhkii wuxuuna sii watay baaritaankii.
 SO: Dhakhtarku wuxuu furay caloosha haweenayda wuxuuna si lama filaan ah dhexdeeda uga helay ubax.
-SO: Wuxuu baaray buug, wuxuuna ogaaday inuu yahay ubax curyaamin kara jirka.
-SO: Gacan ku dhiigluhu wuxuu ku qasbay inay liqdo ubaxa, si uu u jirdilo.
-SO: Jack maskaxdiisii iyo dulqaadkiisii ayaa gabi ahaanba dhismi waayay.
+SO: Wuxuu baaray buug wuxuuna ogaaday inuu yahay ubax curyaamin kara jirka.
+SO: Gacan ku dhiigluhu wuxuu ku qasbay inay liqdo ubaxa si uu u jirdilo.
+SO: Jaamac maskaxdiisii iyo dulqaadkiisii ayaa gabi ahaanba dhismi waayay.
 SO: Maydku wuxuu ahaa mid si cad u muujinaya wax masiibo ah.
-SO: Wuxuu ku fikiray inuu subaxdii mar kale hubiyo, laakiin aabihiis ayaa ku gacan sayray.
+SO: Wuxuu ku fikiray inuu subaxdii mar kale hubiyo laakiin aabihiis ayaa ku gacan sayray.
 SO: Booliisku waxay amreen inay soo saaraan sababta dhimashada ka hor waaberiga.
-SO: Iyagoo cabsi qaba, waxay ku qasbanaadeen inay baaritaanka sii wadaan.
-SO: Ka deb waxay waxay soo saareen warqad, taas oo ay ku jirtay ilig la mid ah qaniinyadii haweenayda.
-SO: Warqadda waxaa ku sawirnaa qaab qarsoodi ah, iyo qaar ka mid ah tirooyinka Roomaanka.
+SO: Iyagoo cabsi qaba waxay ku qasbanaadeen inay baaritaanka sii wadaan.
+SO: Ka dib waxay soo saareen warqad taas oo ay ku jirtay ilig la mid ah qaniinyadii haweenayda.
+SO: Warqadda waxaa ku sawirnaa qaab qarsoodi ah iyo qaar ka mid ah tirooyinka aasaasiga ah.
 SO: Dhakhtarku wuxuu hadda moodayay inuu hayo xoogaa tilmaamo ah.
-SO: Tani ma ahayn oo kaliya dil, laakiin waxay u ekayd dhaqan hore oo qurbaan ah.
-SO: Xilligaas, qalabkii codka duubayay ayaa si kedis ah u bilaabay inuu hees daaro.
+SO: Tani ma ahayn oo kaliya dil laakiin waxay u ekayd dhaqan hore oo qurbaan ah.
+SO: Xilligaas qalabkii codka duubayay ayaa si kedis ah u bilaabay inuu hees daaro.
 SO: Ninkii ayaa si kadis ah uga tuuray xabbad baasto degdeg ah miiskii camalka ahaa.
 SO: Baastadii ayaa si toos ah ugu dhacday boqortooyadii yarayd.
 SO: Qof kastaa wuxuu naxdin ku eegayay baastada wayn ee hortaal.
@@ -885,19 +883,18 @@ SO: Waxay dareentay urta macaan ee hilibka lo'da.
 SO: Boqoraddii waxay rumaysatay inay tahay haddiyad ka timid ilaahyada.
 SO: Waxba kama ay ogayn inay ahayd uun xabbad baasto degdeg ah.
 SO: Ninkii ayaa horey u helay xirmo la soo diray.
-SO: Markuu furay, wuxuu gudaha ka helay qaab dhismeed yar.
-SO: Waxay la noqotay yaab, waxay ahayd dunidii uu horey ugu noolaa.
+SO: Markuu furay wuxuu gudaha ka helay qaab dhismeed yar.
+SO: Waxay la noqotay yaab waxay ahayd dunidii uu horey ugu noolaa.
 SO: Boqoraddii waxay amar ku siisay addoomadeeda inay baastada kariyaan.
 SO: Weligood wax dhadhan macaan ma arag sababtoo ah waxay la ildarnaayeen macaluul.
-SO: Isagoo arkaya farxaddooda, ninkii wuxuu qabtay sanduuq dhan oo baasto ah.
+SO: Isagoo arkaya farxaddooda ninkii wuxuu qabtay sanduuq dhan oo baasto ah.
 SO: Wuxuu dhammaantood ku shubay miiskii camalka ahaa.
-SO: Markay arkeen sahayda baastada ee aan dhammaanayn, qof kastaa wuu naxay.
+SO: Markay arkeen sahayda baastada ee aan dhammaanayn qof kastaa wuu naxay.
 SO: Kaaliyaha boqoradda ayaa u sheegay inay boqortooyadii oo dhan baasto buuxisay.
 SO: Dhibaatadii macaluusha ee haysatay si buuxda ayaa loo xalliyay.
-SO: Isla markaas, ciidammadii cadawga ayaa soo gaaray iridda boqortooyada.
+SO: Isla markaas ciidammadii cadawga ayaa soo gaaray iridda boqortooyada.
 SO: Qarankii oo dhan wuxuu ku sigtay in la qabsado.
 SO: Boqoraddii waxay go'aansatay inay la dhimato boqortooyadeeda.
-SO: Si lama filaan ah, dab ayaa ka qarxay goobta dagaalka, isagoo weeraray cadawga.
+SO: Si lama filaan ah dab ayaa ka qarxay goobta dagaalka isagoo weeraray cadawga.
 SO: Ninkii wuxuu isticmaalayay qori dab tuura si uu u caawiyo boqoradda.
-SO: Ugu dambayntii, wuxuu si guul leh uga caawiyay inay dagaalka ku guulaysato.
-
+SO: Ugu dambayntii wuxuu si guul leh uga caawiyay inay dagaalka ku guulaysato.
