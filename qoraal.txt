@@ -1029,206 +1029,206 @@ SO: Yoolka ugu muhiimsan ee ardaydu waa inay gaaraan guul buuxda maalinba maalin
 SO: Yicibta ka baxda miyiga fog waxay leeyahay dhadhan aad u fiican waxaana lagu iibiyaa suuqyada waaweyn.
 SO: Yasmiin waxay saaka diyaarisay qado macaan oo hilib ari iyo bariis leh martida gurigeeda timid si fiican.
 SO: Yoolka fog ee dowladda hoose wuxuu dalka u horseedi kaara horumar waara oo shacabku wada gaaraan mustaqbalka.
-SO: Yasmiin iyo saaxiibadeed waxay maanta aadeen dukaanka dharka diiran si ay ugu diyaar garoobaan xilliga qabowga.
+SO: Idil iyo saaxiibadeed waxay maanta aadeen dukaanka dharka diiran si ay ugu diyaar garoobaan xilliga qabowga.
 SO: Yoolka arday kasta waa inuu noqdo kor u qaadista aqoonta iyo anshaxa suuban ee bulshada dhexdeeda.
 SO: Yicibta oo ah miro aad u macaan waxay ka baxdaa gobollada dhexe ee dalka iyadoo xooluhuna aad u cunaan.
-SO: Yasmiin waxay saaka jaamacadda ka bilowday waxbarashada caafimaadka dhimirka iyo jirka labadaba iyadoo danyarta caawinaysa.
+SO: Jamiila waxay saaka jaamacadda ka bilowday waxbarashada caafimaadka dhimirka iyo jirka labadaba iyadoo danyarta caawinaysa.
 SO: Yoolalka mashaariicda horumarinta waxaa maanta lagu meelmariyay kulankii maamulka dowladda hoose ee ka dhacay caasimadda.
 SO: Yicibta iyo lawska laga keeno miyiga waxay leeyihiin nafaqo badan oo jidhka bini'aadamka koriya mar kasta.
-SO: Yasmiin waxay dukaanka ka soo iibisay sijaayad guduudan iyo saabuun dharka lagu dhaqo qoyskeeda si ay u isticmaalan.
+SO: Warda waxay dukaanka ka soo iibisay sijaayad guduudan iyo saabuun dharka lagu dhaqo qoyskeeda si ay u isticmaalan.
 SO: Yoolka koowaad ee ciidamada ammaanka waa dhowrista nabadgelyada shacabka kana hortagaan wixii dhibaato keeni kara.
 SO: Yicibta dalkeenna ka baxda waxay door weyn ka qaadataa dhaqaalaha deegaanada fogfog ganacsigeeduna wuxuu u furan yahay.
-SO: Yasmiin waxay dadaal u gashay inay dhammaystirto shaqada xafiiska maanta hubaal oo ay u heellan tahay.
+SO: Caasha waxay dadaal u gashay inay dhammaystirto shaqada xafiiska maanta hubaal oo ay u heellan tahay.
 SO: Yoolalka wasaaradda maaliyadda waxaa ka mid ah dhimista canshuuraha laga qaado ganacsatada yar yar si loo dhiirigeliyo suuqa.
 SO: Yicibta dabiiciga ah oo si fiican loo dubay waxay leeyahay dhadhan macaan oo martida loogu sooryeeyo miyiga dhexdiisa.
-SO: Yasmiin waxay hooyadeed ka caawisay diyaarinta quraacda saaka ka fore inta aisan u amba bixin goobta shaqada.
+SO: Safiya waxay hooyadeed ka caawisay diyaarinta quraacda saaka ka fore inta aisan u amba bixin goobta shaqada.
 SO: Yoolka dhabta ah ee qoraagu wuxuu ahaa inuu sharxo taariikhda faca weyn ee hiddaha iyo dhaqanka Soomaaliyeed.
 SO: Yoolka guud ee mashaariicda biyaha waa in dhammaan deegaanada miyiga ah laga hirgeliyo ceelal casri ah oo nadiif ah.
-SO: Yasmiin waxay saaka maktabadda weyn ee jaamacadda ka akhrisay buugaagta cilmiga taariikhda iyo horumarka bulshada.
+SO: Rooda waxay saaka maktabadda weyn ee jaamacadda ka akhrisay buugaagta cilmiga taariikhda iyo horumarka bulshada.
 SO: Yicibta iyo midhaha dabiiciga ah ee dalkeenna ka baxa waxay leeyihiin faa'iidooyin badan oo dhanka caafimaadka ah.
 SO: Yoolka koowaad ee waxbarashadu waa in la soo saaro dhallinyaro aqoon iyo anshax leh oo dalka u horseedi kara.
-SO: Yasmiin waxay maanta booqatay hooyadeed oo ku xanuunsan isbitaalka guud si ay u daryeesho oo u keento daawooyinka.
+SO: Naciima waxay maanta booqatay hooyadeed oo ku xanuunsan isbitaalka guud si ay u daryeesho oo u keento daawooyinka.
 SO: Yoolka fog ee qorshaha dowladda waa in dalka oo dhan laga hirgeliyo jidad laami ah oo isku xira dhammaan gobollada.
 SO: Zeynab waxay subax kasta u degdegtaa inay tagto dugsiga sare ee magaalada.
-SO: Zeynab boorsadeeda cas waxaa ku jira buugaagta cilmiga sayniska ee casriga ah.
-SO: Zeynab iyo walaalkeed waxay suuqa weyn ka soo iibsadeen dhar cusub oo diiran.
-SO: Zeynab waxay diyaarisay qado macaan oo hilib ari ah oo loogu talagalay martidii caawa timid.
-SO: Zeynab waxay aad u jeceshahay inay akhriso buugaagta taariikhda ee qadiimiga ah ee adduunka.
-SO: Zeynab waxay caan ku tahay beerashada ubaxa cas ee beerta dhexdeeda ku yaal.
-SO: Zeynab waxay dhowaan ku guulaysatay deeq waxbarasho oo dalka dibaddiisa ah.
-SO: Zeynab waxaa kula taliyay dhakhtarka ilkaha inay ilkaha cadayso maalin kasta si joogto ah.
-SO: Zeynab waxaa u doortay saaxiibadeeda jaamacadda inay hoggaamiso guddiga ardayda ee sanadkan.
-SO: Zeynab waxay saaka diyaarisay quraac aad u macaan oo qoyska oo dhan ay jecel yihiin.
-SO: Zeynab ayaa iska leh dukaanka dharka ee ku yaal bartamaha magaalada dhexdeeda.
-SO: Zeynab waxay hooyadeed ka caawisay diyaarinta raashinka habeenkii si degdeg ah.
-SO: Zeynab waxay leedahay beer weyn oo ay dalxiisayaashu sawirro qurux badan ka qaataan.
-SO: Zeynab waxay si deggenaan ah ugu akhrisay buugga ku saabsan cilmiga xiddigaha iyo koonka.
-SO: Zeynab waxay qaaddaa heesaha hiddaha iyo dhaqanka ee dhiirigeliya dhalinyarada deegaanka.
-SO: Zeynab waxay go'aansatay inay caawiso dadka danyarta ah ee deegaanka deggan ee u baahan gargaarka.
-SO: Zeynab aragtideeda fog ee ganacsiga ayaa horseeday guul weyn oo ay ka gaarto dalka gudihiisa.
-SO: Zeynab waxay subax kasta u kacdaa inay daryeesho ubadkeeda yaryar ee caafimaadka u baahan.
-SO: Zeynab waxay gabadheeda yar u dirtay fasalka koowaad ee dugsiga hoose ee xaafadda.
-SO: Zeynab waxay caawa casuuntay dhammaan ehelada iyo asxaabta dhow ee ku nool magaalada.
-SO: Zeynab waa cayaartoyga ugu orodka dheereeya kooxda gabadhaha ee ciyaaraha fudud.
-SO: Zeynab waxay hooyadeed u soo iibisay haddiyad qaali ah oo dahab ah oo suuqa laga keenay.
-SO: Zeynab waxay qabatay shaqo adag oo uu maamulaha guud ee xafiiska ku ammaanay.
-SO: Zeynab waxay si daacad ah ugu adeegtaa bukaanada jiifa isbitaalka weyn ee caasimadda.
-SO: Zeynab waxay dhistay guri qurux badan oo dadka oo dhan ay bilicdiisa ku daydaan.
-SO: Zeynab waxay barashada af Soomaaliga u adeegsataa habab casri ah oo fudud oo waxtar leh.
-SO: Zeynab caannimadeeda dhanka suugaanta ayaa lagu yaqaanaa dalka oo dhan maanta.
-SO: Zeynab waxay saaka nabad ku gaartay goobtii shaqada ee ay u hawlgasho maalin kasta.
-SO: Zeynab waxay sheegtaa erayo xigmad leh oo waxtar u leh bulshada ay la nool tahay.
-SO: Zeynab waxay mar kasta u taagan tahay barashada iyo dhowrista diinta suuban ee nolosha.
+SO: Mako boorsadeeda cas waxaa ku jira buugaagta cilmiga sayniska ee casriga ah.
+SO: Deeqa iyo walaalkeed waxay suuqa weyn ka soo iibsadeen dhar cusub oo diiran.
+SO: Hodan waxay diyaarisay qado macaan oo hilib ari ah oo loogu talagalay martidii caawa timid.
+SO: Idil waxay aad u jeceshahay inay akhriso buugaagta taariikhda ee qadiimiga ah ee adduunka.
+SO: Jamiila waxay caan ku tahay beerashada ubaxa cas ee beerta dhexdeeda ku yaal.
+SO: Kiin waxay dhowaan ku guulaysatay deeq waxbarasho oo dalka dibaddiisa ah.
+SO: Leyla waxaa kula taliyay dhakhtarka ilkaha inay ilkaha cadayso maalin kasta si joogto ah.
+SO: Naciima waxaa u doortay saaxiibadeeda jaamacadda inay hoggaamiso guddiga ardayda ee sanadkan.
+SO: Qadro waxay saaka diyaarisay quraac aad u macaan oo qoyska oo dhan ay jecel yihiin.
+SO: Rooda ayaa iska leh dukaanka dharka ee ku yaal bartamaha magaalada dhexdeeda.
+SO: Safiya waxay hooyadeed ka caawisay diyaarinta raashinka habeenkii si degdeg ah.
+SO: Tusmo waxay leedahay beer weyn oo ay dalxiisayaashu sawirro qurux badan ka qaataan.
+SO: Ugbad waxay si deggenaan ah ugu akhrisay buugga ku saabsan cilmiga xiddigaha iyo koonka.
+SO: Warda waxay qaaddaa heesaha hiddaha iyo dhaqanka ee dhiirigeliya dhalinyarada deegaanka.
+SO: Xaliimo waxay go'aansatay inay caawiso dadka danyarta ah ee deegaanka deggan ee u baahan gargaarka.
+SO: Yurub aragtideeda fog ee ganacsiga ayaa horseeday guul weyn oo ay ka gaarto dalka gudihiisa.
+SO: Barni waxay subax kasta u kacdaa inay daryeesho ubadkeeda yaryar ee caafimaadka u baahan.
+SO: Caasha waxay gabadheeda yar u dirtay fasalka koowaad ee dugsiga hoose ee xaafadda.
+SO: Deeqa waxay caawa casuuntay dhammaan ehelada iyo asxaabta dhow ee ku nool magaalada.
+SO: Filsan waa cayaartoyga ugu orodka dheereeya kooxda gabadhaha ee ciyaaraha fudud.
+SO: Hodan waxay hooyadeed u soo iibisay haddiyad qaali ah oo dahab ah oo suuqa laga keenay.
+SO: Idil waxay qabatay shaqo adag oo uu maamulaha guud ee xafiiska ku ammaanay.
+SO: Jamiila waxay si daacad ah ugu adeegtaa bukaanada jiifa isbitaalka weyn ee caasimadda.
+SO: Kiin waxay dhistay guri qurux badan oo dadka oo dhan ay bilicdiisa ku daydaan.
+SO: Leyla waxay barashada af Soomaaliga u adeegsataa habab casri ah oo fudud oo waxtar leh.
+SO: Mako caannimadeeda dhanka suugaanta ayaa lagu yaqaanaa dalka oo dhan maanta.
+SO: Naciima waxay saaka nabad ku gaartay goobtii shaqada ee ay u hawlgasho maalin kasta.
+SO: Qadro waxay sheegtaa erayo xigmad leh oo waxtar u leh bulshada ay la nool tahay.
+SO: Rooda waxay mar kasta u taagan tahay barashada iyo dhowrista diinta suuban ee nolosha.
 SO: Zakariya wuxuu saaka diyaariyay dhammaan faylalka muhiimka ah ee xafiiska dowladda.
-SO: Zakariya iyo asxaabtiisu waxay galabta ku ciyaarayaan garoonka weyn ee xaafadda dhexdeeda.
-SO: Zakariya wuxuu agagaarka webiga ku leeyahay beer weyn oo khudaarta dhoofisa maalin kasta.
-SO: Zakariya wuxuu subax kasta raacdaa xoolaha daaqaya buuraha dheer ee dalka gudihiisa.
-SO: Zakariya wuxuu imtixaanadii ugu dambeeyay ee sanadka ka galay kaalinta koowaad ee dugsiga.
-SO: Zakariya wuxuu dukaanka weyn ee magaalada ka soo iibsaday baabuur cusub oo qurux badan.
-SO: Zakariya wuxuu maanta saxiixay qorshaha guud ee dib u dhiska garoonka caalamiga ah.
-SO: Zakariya wuxuu si naxariis leh u daryeelaa aabihiis oo waayeel ah oo guriga jooga.
-SO: Zakariya wuxuu tiriyay gabay cusub oo dhiirigelinaya midnimada shacabka Soomaaliyeed mar walba.
-SO: Zakariya wuxuu si gaar ah u jecel yahay akhrinta buugaagta cilmiga sayniska iyo farsamada.
-SO: Zakariya waxaa loo magacaabay sarkaalka amniga ee degmada si uu u sugo nabadgelyada.
-SO: Zakariya wuxuu saaka garoonka diyaaradaha ka soo dhaweeyay marti muhiim ah oo dalka timid.
-SO: Zakariya wuxuu ku luuqeeyaa hees macaan oo dhawaqeedu aad u qurux badan yahay oo dejiya dhimirka.
-SO: Zakariya wuxuu dhoofiyay geel badan oo laga keenay miyiga fog ee dalka Soomaaliya.
-SO: Zakariya wuxuu macallinka taariikhda ka bartay halgankii loo galay xornimada qaranka dhowaan.
-SO: Zakariya wuxuu dhoodhoobay aqal cusub oo naqshad qurux badan leh oo indhaha soo jiita.
-SO: Zakariya wuxuu maamulaa ganacsi guulaysta oo shaqaaleeyay dhalinyaro badan oo danyar ah.
-SO: Zakariya wuxuu saaka diyaariyay qado macaan oo bariis iyo hilib leh oo loo qaybiyay martida.
-SO: Zakariya dadaalka iyo dhabar adaygga uu muujiyay ayaa horseeday guushiisa weyn ee maanta.
-SO: Zakariya wuxuu sarrifka lacagaha qalaad ka sameeyay faaiido weyn caawa suuqa dhexdiisa.
-SO: Zakariya wuxuu qaatay go'aan geesinimada leh oo badbaadiyay dad badan oo dhibaataysnaa.
-SO: Zakariya wuxuu saaka isbitaalka weyn u geeyay hooyadiis si loogu baaro xanuunka indhaha.
-SO: Zakariya wuxuu mar kasta u taagan yahay nadaafadda iyo bilicda guud ee xaafadda uu degan yahay.
-SO: Zakariya wuxuu buug cusub oo taariikhi ah ka qoray dalkeenna Soomaaliya iyo dadkiisa dambe.
-SO: Zakariya aqoonta fog ee uu leeyahay waxay dalka u horseedi kartaa horumar waara oo dhab ah.
-SO: Zakariya wuxuu dhowaan ku guulaysatay tartanka orodka dheereeya ee caasimadda dalka oo dhan.
-SO: Zakariya wuxuu mar kasta dhowraa ixtiraamka dadka waaweyn ee deegaanka uu degan yahay.
-SO: Zakariya wuxuu si daacad ah u maamulaa khasnadda guud ee dowladda dhexdeeda si furan.
-SO: Zakariya qoyskoodu waxay caawa u dabaaldegayaan dhalashada gabadha yar ee dhowaan dhalatay.
-SO: Zakariya wuxuu dukaanka alaabta dhismaha ka soo iibsaday bir adag oo jidka ku xirta ammaanka.
+SO: Bashiir iyo asxaabtiisu waxay galabta ku ciyaarayaan garoonka weyn ee xaafadda dhexdeeda.
+SO: Cumar wuxuu agagaarka webiga ku leeyahay beer weyn oo khudaarta dhoofisa maalin kasta.
+SO: Daa'uud wuxuu subax kasta raacdaa xoolaha daaqaya buuraha dheer ee dalka gudihiisa.
+SO: Faarax wuxuu imtixaanadii ugu dambeeyay ee sanadka ka galay kaalinta koowaad ee dugsiga.
+SO: Guuleed wuxuu dukaanka weyn ee magaalada ka soo iibsaday baabuur cusub oo qurux badan.
+SO: Xasan wuxuu maanta saxiixay qorshaha guud ee dib u dhiska garoonka caalamiga ah.
+SO: Jaamac wuxuu si naxariis leh u daryeelaa aabihiis oo waayeel ah oo guriga jooga.
+SO: Khaalid wuxuu tiriyay gabay cusub oo dhiirigelinaya midnimada shacabka Soomaaliyeed mar walba.
+SO: Liibaan wuxuu si gaar ah u jecel yahay akhrinta buugaagta cilmiga sayniska iyo farsamada.
+SO: Maxamed waxaa loo magacaabay sarkaalka amniga ee degmada si uu u sugo nabadgelyada.
+SO: Nuur wuxuu saaka garoonka diyaaradaha ka soo dhaweeyay marti muhiim ah oo dalka timid.
+SO: Qaasim wuxuu ku luuqeeyaa hees macaan oo dhawaqeedu aad u qurux badan yahay oo dejiya dhimirka.
+SO: Rooble wuxuu dhoofiyay geel badan oo laga keenay miyiga fog ee dalka Soomaaliya.
+SO: Samatar wuxuu macallinka taariikhda ka bartay halgankii loo galay xornimada qaranka dhowaan.
+SO: Taahir wuxuu dhoodhoobay aqal cusub oo naqshad qurux badan leh oo indhaha soo jiita.
+SO: Warsame wuxuu maamulaa ganacsi guulaysta oo shaqaaleeyay dhalinyaro badan oo danyar ah.
+SO: Xareed wuxuu saaka diyaariyay qado macaan oo bariis iyo hilib leh oo loo qaybiyay martida.
+SO: Yaasiin dadaalka iyo dhabar adaygga uu muujiyay ayaa horseeday guushiisa weyn ee maanta.
+SO: Axmed wuxuu sarrifka lacagaha qalaad ka sameeyay faaiido weyn caawa suuqa dhexdiisa.
+SO: Bootaan wuxuu qaatay go'aan geesinimada leh oo badbaadiyay dad badan oo dhibaataysnaa.
+SO: Aadan wuxuu saaka isbitaalka weyn u geeyay hooyadiis si loogu baaro xanuunka indhaha.
+SO: Bashiir wuxuu mar kasta u taagan yahay nadaafadda iyo bilicda guud ee xaafadda uu degan yahay.
+SO: Cumar wuxuu buug cusub oo taariikhi ah ka qoray dalkeenna Soomaaliya iyo dadkiisa dambe.
+SO: Daa'uud aqoonta fog ee uu leeyahay waxay dalka u horseedi kartaa horumar waara oo dhab ah.
+SO: Faarax wuxuu dhowaan ku guulaysatay tartanka orodka dheereeya ee caasimadda dalka oo dhan.
+SO: Guuleed wuxuu mar kasta dhowraa ixtiraamka dadka waaweyn ee deegaanka uu degan yahay.
+SO: Xasan wuxuu si daacad ah u maamulaa khasnadda guud ee dowladda dhexdeeda si furan.
+SO: Jaamac qoyskoodu waxay caawa u dabaaldegayaan dhalashada gabadha yar ee dhowaan dhalatay.
+SO: Khaalid wuxuu dukaanka alaabta dhismaha ka soo iibsaday bir adag oo jidka ku xirta ammaanka.
 SO: Zahra waxay caawa diyaarisay casuumad ballaaran oo loogu talagalay asxaabta dhow ee magaalada.
-SO: Zahra iyo gabadha ay saaxiibada yihiin waxay aadeen dukaanka dharka ee suuqa weyn.
-SO: Zahra boorsadeeda yar waxaa ku jira dawooyin muhiim u ah hooyadeed oo guriga ku xanuunsan.
-SO: Zahra waxay saaka jaamacadda ka bilowday waxbarashada caafimaadka dhimirka iyo bulshada.
-SO: Zahra waxay hooyadeed ka caawisay diyaarinta quraacda saaka ka hor inta aysan aadin shaqada.
-SO: Zahra waxay maktabadda weyn ka akhrisay buugaagta cilmiga bulshada iyo barbaarinta ubadka.
-SO: Zahra iyo qoyskeedu waxay caawa u dabbaaldegayaan arooska gabadhooda weyn ee guursatay.
-SO: Zahra waxay dhowaan ku guulaysatay deeq waxbarasho oo dalka dibaddiisa ah oo muhiim ah.
-SO: Zahra waxaa u qoray dhakhtarka indhaha muraayado casri ah oo indhaheeda ku habboon si fiican.
-SO: Zahra waxay aad u jeceshahay inay daryeesho dhirta cagaaran ee gurigeeda ku taal mar walba.
-SO: Zahra waxay barashada af Soomaaliga u adeegsataa habab casri ah oo fudud oo waxtar leh.
-SO: Zahra waxay saaka nabad ku gaartay goobtii shaqada ee ay ka tirsanayd ee magaalada.
-SO: Zahra waxay caawa noo keentay caano geel oo aad u macaan oo nafaqo badan leh.
-SO: Zahra waxay go'aansatay inay caawiso qoysaska ay abaaruhu dhibaateeyeen ee miyiga fog.
-SO: Zahra aragtideeda fog waxay dalka u horseedi kartaa horumar waara oo bulshadu wada gaarto.
-SO: Zahra waxay subax kasta u kacdaa inay daryeesho ubadkeeda yaryar ka hor waaberiga.
-SO: Zahra gabadheeda yar waxay saaka bilowday fasalka koowaad ee dugsiga hoose ee xaafadda.
-SO: Zahra waxay si deggenaan ah ugu akhrisay buugga ku saabsan cilmiga xiddigaha iyo koonka balaaran.
-SO: Zahra heesaheeda hiddaha iyo dhaqanka waxay dhiirigeliyaan dhalinyarada jecel suugaanta qaniga ah.
-SO: Zahra waxay hooyadeed u soo iibisay haddiyad qaali ah oo dahab ah oo aad u qurux badan.
-SO: Zahra shaqadeeda adag ee xafiiska waxaa ku ammaanay maamulaha guud ee shirkadda weyn.
-SO: Zahra waxay si daacad ah ugu adeegtaa bukaanada jiifa isbitaalka weyn ee dowladda dhexdeeda.
-SO: Zahra gurigeeda quruxda gaarka ah leh wuxuu soo jiitaa dadka oo dhan ee jidka mara.
-SO: Zahra caannimadeeda dhanka suugaanta waxay ku baahday gobolka oo dhan muddo yar gudaheed.
-SO: Zahra erayadeeda xigmadda leh ee ay ku darto sheekooyinkeeda waa kuwo waxtar leh oo xusuus mudan.
-SO: Zahra waxay mar kasta u taagan tahay barashada iyo dhowrista diinta suuban ee saxda ah.
-SO: Zahra beerteeda weyn waxay sawirro qurux badan ka qaadeen dalxiisayaashu dhowaan markay booqdeen.
-SO: Zahra waxay saaka diyaarisay qado macaan oo hilib ari leh oo suuqa laga keenay shalay.
-SO: Zahra boorsadeeda cas waxaa ku jira buugaagta cilmiga sayniska iyo bayoolajiga ee cusub.
-SO: Zahra hambalyo weyn ayay mudan tahay markay keentay dhibcihii ugu sarreeyay ee imtixaanka dugsiga.
+SO: Canab iyo gabadha ay saaxiibada yihiin waxay aadeen dukaanka dharka ee suuqa weyn.
+SO: Dahabo boorsadeeda yar waxaa ku jira dawooyin muhiim u ah hooyadeed oo guriga ku xanuunsan.
+SO: Ebyan waxay saaka jaamacadda ka bilowday waxbarashada caafimaadka dhimirka iyo bulshada.
+SO: Fartuun waxay hooyadeed ka caawisay diyaarinta quraacda saaka ka hor inta aysan aadin shaqada.
+SO: Gargaara waxay maktabadda weyn ka akhrisay buugaagta cilmiga bulshada iyo barbaarinta ubadka.
+SO: Hira iyo qoyskeedu waxay caawa u dabbaaldegayaan arooska gabadhooda weyn ee guursatay.
+SO: Iftin waxay dhowaan ku guulaysatay deeq waxbarasho oo dalka dibaddiisa ah oo muhiim ah.
+SO: Jowhara waxaa u qoray dhakhtarka indhaha muraayado casri ah oo indhaheeda ku habboon si fiican.
+SO: Khadra waxay aad u jeceshahay inay daryeesho dhirta cagaaran ee gurigeeda ku taal mar walba.
+SO: Ladan waxay barashada af Soomaaliga u adeegsataa habab casri ah oo fudud oo waxtar leh.
+SO: Maryan waxay saaka nabad ku gaartay goobtii shaqada ee ay ka tirsanayd ee magaalada.
+SO: Nasra waxay caawa noo keentay caano geel oo aad u macaan oo nafaqo badan leh.
+SO: Canab waxay go'aansatay inay caawiso qoysaska ay abaaruhu dhibaateeyeen ee miyiga fog.
+SO: Dahabo aragtideeda fog waxay dalka u horseedi kartaa horumar waara oo bulshadu wada gaarto.
+SO: Ebyan waxay subax kasta u kacdaa inay daryeesho ubadkeeda yaryar ka hor waaberiga.
+SO: Fartuun gabadheeda yar waxay saaka bilowday fasalka koowaad ee dugsiga hoose ee xaafadda.
+SO: Gargaara waxay si deggenaan ah ugu akhrisay buugga ku saabsan cilmiga xiddigaha iyo koonka balaaran.
+SO: Hira heesaheeda hiddaha iyo dhaqanka waxay dhiirigeliyaan dhalinyarada jecel suugaanta qaniga ah.
+SO: Iftin waxay hooyadeed u soo iibisay haddiyad qaali ah oo dahab ah oo aad u qurux badan.
+SO: Jowhara shaqadeeda adag ee xafiiska waxaa ku ammaanay maamulaha guud ee shirkadda weyn.
+SO: Khadra waxay si daacad ah ugu adeegtaa bukaanada jiifa isbitaalka weyn ee dowladda dhexdeeda.
+SO: Ladan gurigeeda quruxda gaarka ah leh wuxuu soo jiitaa dadka oo dhan ee jidka mara.
+SO: Maryan caannimadeeda dhanka suugaanta waxay ku baahday gobolka oo dhan muddo yar gudaheed.
+SO: Nasra erayadeeda xigmadda leh ee ay ku darto sheekooyinkeeda waa kuwo waxtar leh oo xusuus mudan.
+SO: Canab waxay mar kasta u taagan tahay barashada iyo dhowrista diinta suuban ee saxda ah.
+SO: Dahabo beerteeda weyn waxay sawirro qurux badan ka qaadeen dalxiisayaashu dhowaan markay booqdeen.
+SO: Ebyan waxay saaka diyaarisay qado macaan oo hilib ari leh oo suuqa laga keenay shalay.
+SO: Fartuun boorsadeeda cas waxaa ku jira buugaagta cilmiga sayniska iyo bayoolajiga ee cusub.
+SO: Gargaara hambalyo weyn ayay mudan tahay markay keentay dhibcihii ugu sarreeyay ee imtixaanka dugsiga.
 SO: Zubeyr wuxuu xafiiska ku habeeyay qalabka casriga ah ee isgaarsiinta iyo teknoolajiyada dalka.
-SO: Zubeyr iyo asxaabtiisu waxay galabta ku ciyaarayaan fagaaraha weyn ee ku yaal caasimadda dalka.
-SO: Beer weyn oo khudaarta dhoofisa waxaa agagaarka webiga ku leh Zubeyr oo ah nin ganacsade ah.
-SO: Zubeyr wuxuu subax kasta raacdaa xoolaha daaqaya buuraha dheer ee dalka si uu u daryeelo.
-SO: Imtixaankii ugu dambeeyay ee sanadka waxaa kaalinta koowaad ee dugsiga sare galay Zubeyr.
-SO: Zubeyr wuxuu dukaanka weyn ee magaalada ka soo iibsaday baabuur cusub oo casri ah.
-SO: Qorshaha guud ee dib u dhiska garoonka diyaaradaha ee caalamiga ah waxaa maanta saxiixay Zubeyr.
-SO: Zubeyr wuxuu si naxariis leh u daryeelaa aabihiis oo waayeel ah oo ku nool guriga dhexe.
-SO: Abwaan Zubeyr wuxuu tiriyay gabay cusub oo dhiirigelinaya midnimada shacabka Soomaaliyeed mar walba.
-SO: Zubeyr wuxuu si gaar ah u jecel yahay akhrinta buugaagta cilmiga sayniska iyo bayoolajiga.
-SO: Taliyihii ciidanka booliska ee degmada wuxuu u magacaabay Zubeyr saraakiisha qaabilsan amniga dalka.
-SO: Zubeyr wuxuu saaka garoonka diyaaradaha ka soo dhaweeyay marti muhiim ah oo ka timid dalka dibaddiisa.
-SO: Dhawaqa heesta macaan ee uu Zubeyr ku luuqeeyo waa mid aad u qurux badan oo dadka soo jiidta.
-SO: Zubeyr wuxuu dhoofiyay geel badan oo laga keenay miyiga fog ee gobollada dalka Soomaaliya.
-SO: Macallinka taariikhda wuxuu Zubeyr u sharxay halgankii dheeraa ee loo galay xornimada iyo qarannimada dalka.
-SO: Zubeyr wuxuu dhoodhoobay aqal cusub oo naqshad qurux badan leh oo aad u daryeelaya deegaanka dabiiciga ah.
-SO: Ganacsiga guulaysta ee uu Zubeyr maamulo wuxuu shaqaaleeyay dhalinyaro badan oo danyar ah oo deegaanka ku nool.
-SO: Zubeyr wuxuu saaka diyaariyay qado macaan oo bariis iyo hilib leh oo loo qaybiyay dadka danyarta ah.
-SO: Dadaalka iyo dhabar adaygga uu muujiyay Zubeyr ayaa horseeday guushiisa weyn ee uu maanta ku faanayo.
-SO: Zubeyr wuxuu sarrifka lacagaha qalaad ka sameeyay faaiido weyn caawa suuqa dhexdiisa.
+SO: Cabdi iyo asxaabtiisu waxay galabta ku ciyaarayaan fagaaraha weyn ee ku yaal caasimadda dalka.
+SO: Beer weyn oo khudaarta dhoofisa waxaa agagaarka webiga ku leh Dirir oo ah nin ganacsade ah.
+SO: Cigaal wuxuu subax kasta raacdaa xoolaha daaqaya buuraha dheer ee dalka si uu u daryeelo.
+SO: Imtixaankii ugu dambeeyay ee sanadka waxaa kaalinta koowaad ee dugsiga sare galay Geedi.
+SO: Xirsi wuxuu dukaanka weyn ee magaalada ka soo iibsaday baabuur cusub oo casri ah.
+SO: Qorshaha guud ee dib u dhiska garoonka diyaaradaha ee caalamiga ah waxaa maanta saxiixay Ileeye.
+SO: Jibriil wuxuu si naxariis leh u daryeelaa aabihiis oo waayeel ah oo ku nool guriga dhexe.
+SO: Abwaan Mahad wuxuu tiriyay gabay cusub oo dhiirigelinaya midnimada shacabka Soomaaliyeed mar walba.
+SO: Cabdi wuxuu si gaar ah u jecel yahay akhrinta buugaagta cilmiga sayniska iyo bayoolajiga.
+SO: Taliyihii ciidanka booliska ee degmada wuxuu u magacaabay Dirir saraakiisha qaabilsan amniga dalka.
+SO: Cigaal wuxuu saaka garoonka diyaaradaha ka soo dhaweeyay marti muhiim ah oo ka timid dalka dibaddiisa.
+SO: Dhawaqa heesta macaan ee uu Geedi ku luuqeeyo waa mid aad u qurux badan oo dadka soo jiidta.
+SO: Xirsi wuxuu dhoofiyay geel badan oo laga keenay miyiga fog ee gobollada dalka Soomaaliya.
+SO: Macallinka taariikhda wuxuu Ileeye u sharxay halgankii dheeraa ee loo galay xornimada iyo qarannimada dalka.
+SO: Jibriil wuxuu dhoodhoobay aqal cusub oo naqshad qurux badan leh oo aad u daryeelaya deegaanka dabiiciga ah.
+SO: Ganacsiga guulaysta ee uu Mahad maamulo wuxuu shaqaaleeyay dhalinyaro badan oo danyar ah oo deegaanka ku nool.
+SO: Cabdi wuxuu saaka diyaariyay qado macaan oo bariis iyo hilib leh oo loo qaybiyay dadka danyarta ah.
+SO: Dadaalka iyo dhabar adaygga uu muujiyay Dirir ayaa horseeday guushiisa weyn ee uu maanta ku faanayo.
+SO: Cigaal wuxuu sarrifka lacagaha qalaad ka sameeyay faaiido weyn caawa suuqa dhexdiisa.
 SO: Zamzam waxay caawa diyaarisay casuumad ballaaran oo loogu talagalay asxaabta dhow ee magaalada caasimadda ah.
-SO: Zamzam waxay saaxiibadeed kula kulantay badhtamaha suuqa weyn ee dhar iibka ee caanka ah.
-SO: Boorsada yar ee ay Zamzam sidato waxaa ku jira dawooyin muhiim u ah hooyadeed oo guriga ku xanuunsan.
-SO: Zamzam waxay saaka jaamacadda ka bilowday waxbarashada caafimaadka dhimirka iyo cilmiga nafsiga ee aadanaha.
-SO: Zamzam waxay hooyadeed ka caawisay diyaarinta quraacda saaka ka hor inta aysan aadin goobta shaqada.
-SO: Zamzam waxay maktabadda weyn ka akhrisay buugaagta cilmiga bulshada iyo dhaqanka dadka Soomaaliyeed.
-SO: Qoyska reer Zamzam waxay caawa u dabbaaldegayaan arooska gabadhooda weyn ee dhamaysatay waxbarashada jaamacadda.
-SO: Zamzam waxay dhowaan ku guulaysatay deeq waxbarasho oo dalka dibaddiisa ah si ay u barato caafimaadka.
-SO: Dhakhtarka indhaha wuxuu Zamzam u qoray muraayado casri ah oo indhaheeda ku habboon si ay wax ugu aqriso.
-SO: Zamzam waxay aad u jeceshahay inay daryeesho dhirta cagaaran ee gurigeeda ku wareegsan mar walba.
-SO: Zamzam waxay barashada af Soomaaliga u adeegsataa habab casri ah oo fudud oo waxtar weyn u leh carruurta.
-SO: Zamzam waxay saaka nabad ku gaartay goobtii shaqada ee ay ka tirsanayd ee magaalada dhexdeeda.
-SO: Eeddo Zamzam waxay caawa noo keentay caano geel oo aad u macaan oo nafaqo badan leh oo caafimaad u leh jirka.
-SO: Zamzam waxay go'aansatay inay caawiso qoysaska ay abaaruhu dhibaateeyeen ee ku nool deegaanada fog.
-SO: Aragtida fog ee ay Zamzam leedahay waxay dalka u horseedi kartaa horumar waara oo bulshadu wada gaarto.
-SO: Zamzam waxay subax kasta u kacdaa inay daryeesho ubadkeeda yaryar ee caafimaadka iyo waxbarashada u baahan.
-SO: Gabadha yar ee ay dhashay Zamzam waxay saaka bilowday fasalka koowaad ee dugsiga hoose ee xaafadda.
-SO: Zamzam waxay si deggenaan ah ugu akhrisay buugga ku saabsan cilmiga xiddigaha iyo koonka balaaran ee Eebbe abuuray.
-SO: Heesaha hiddaha iyo dhaqanka ee ay Zamzam qaaddo waxay dhiirigeliyaan dhalinyarada jecel suugaanta qaniga ah.
-SO: Zamzam waxay hooyadeed u soo iibisay haddiyad qaali ah oo dahab ah oo laga soo iibiyay suuqa weyn.
+SO: Raaliyo waxay saaxiibadeed kula kulantay badhtamaha suuqa weyn ee dhar iibka ee caanka ah.
+SO: Boorsada yar ee ay Sahra sidato waxaa ku jira dawooyin muhiim u ah hooyadeed oo guriga ku xanuunsan.
+SO: Ubax waxay saaka jaamacadda ka bilowday waxbarashada caafimaadka dhimirka iyo cilmiga nafsiga ee aadanaha.
+SO: Xamdi waxay hooyadeed ka caawisay diyaarinta quraacda saaka ka hor inta aysan aadin goobta shaqada.
+SO: Asma waxay maktabadda weyn ka akhrisay buugaagta cilmiga bulshada iyo dhaqanka dadka Soomaaliyeed.
+SO: Qoyska reer Bilan waxay caawa u dabbaaldegayaan arooska gabadhooda weyn ee dhamaysatay waxbarashada jaamacadda.
+SO: Cawro waxay dhowaan ku guulaysatay deeq waxbarasho oo dalka dibaddiisa ah si ay u barato caafimaadka.
+SO: Dhakhtarka indhaha wuxuu Deeqo u qoray muraayado casri ah oo indhaheeda ku habboon si ay wax ugu aqriso.
+SO: Raaliyo waxay aad u jeceshahay inay daryeesho dhirta cagaaran ee gurigeeda ku wareegsan mar walba.
+SO: Sahra waxay barashada af Soomaaliga u adeegsataa habab casri ah oo fudud oo waxtar weyn u leh carruurta.
+SO: Ubax waxay saaka nabad ku gaartay goobtii shaqada ee ay ka tirsanayd ee magaalada dhexdeeda.
+SO: Eeddo Xamdi waxay caawa noo keentay caano geel oo aad u macaan oo nafaqo badan leh oo caafimaad u leh jirka.
+SO: Asma waxay go'aansatay inay caawiso qoysaska ay abaaruhu dhibaateeyeen ee ku nool deegaanada fog.
+SO: Aragtida fog ee ay Bilan leedahay waxay dalka u horseedi kartaa horumar waara oo bulshadu wada gaarto.
+SO: Cawro waxay subax kasta u kacdaa inay daryeesho ubadkeeda yaryar ee caafimaadka iyo waxbarashada u baahan.
+SO: Gabadha yar ee ay dhashay Deeqo waxay saaka bilowday fasalka koowaad ee dugsiga hoose ee xaafadda.
+SO: Raaliyo waxay si deggenaan ah ugu akhrisay buugga ku saabsan cilmiga xiddigaha iyo koonka balaaran ee Eebbe abuuray.
+SO: Heesaha hiddaha iyo dhaqanka ee ay Sahra qaaddo waxay dhiirigeliyaan dhalinyarada jecel suugaanta qaniga ah.
+SO: Ubax waxay hooyadeed u soo iibisay haddiyad qaali ah oo dahab ah oo laga soo iibiyay suuqa weyn.
 SO: Zaki wuxuu qodaal u aaday beerta khudaarta ee webiga hareerihiisa ku taal si uu u soo gooyo tufaax.
-SO: Zaki iyo asxaabtiisu waxay galabta ku ciyaarayaan garoonka weyn ee xaafadda dhexdeeda si ay u dabbaaldegaan.
-SO: Beer weyn oo khudaarta dhoofisa waxaa agagaarka webiga ku leh Zaki oo ah nin dadaal badan.
-SO: Zaki wuxuu subax kasta raacdaa xoolaha daaqaya buuraha dheer ee dalka gudihiisa si uu u daaqiyo.
-SO: Imtixaankii ugu dambeeyay ee sanadka waxaa kaalinta koowaad ee dugsiga sare galay Zaki oo dadaalay.
-SO: Zaki wuxuu dukaanka weyn ee magaalada ka soo iibsaday baabuur cusub oo qurux badan oo casri ah.
-SO: Qorshaha guud ee dib u dhiska garoonka diyaaradaha waxaa maanta saxiixay Zaki oo ah mas'uul dowladeed.
-SO: Zaki wuxuu si naxariis leh u daryeelaa aabihiis oo waayeel ah oo guriga dhexdiisa jooga mar walba.
-SO: Abwaan Zaki wuxuu tiriyay gabay cusub oo dhiirigelinaya midnimada shacabka Soomaaliyeed mar walba.
-SO: Zaki wuxuu si gaar ah u jecel yahay akhrinta buugaagta cilmiga sayniska iyo bayoolajiga ee cusub.
-SO: Taliyihii ciidanka booliska ee degmada wuxuu u magacaabay Zaki saraakiisha qaabilsan dhowrista amniga guud.
-SO: Zaki wuxuu saaka garoonka diyaaradaha ka soo dhaweeyay marti muhiim ah oo ka timid dalka dibaddiisa.
-SO: Dhawaqa heesta macaan ee uu Zaki ku luuqeeyo waa mid aad u qurux badan oo dejiya dareenka dadka.
-SO: Zaki wuxuu dhoofiyay geel badan oo laga keenay miyiga fog ee gobollada dalka Soomaaliya dhowaan.
-SO: Macallinka taariikhda wuxuu Zaki u sharxay halgankii dheeraa ee loo galay xornimada iyo qarannimada dalkeenna.
-SO: Zaki wuxuu dhoodhoobay aqal cusub oo naqshad qurux badan leh oo aad u dhowra deegaanka dabiiciga ah.
-SO: Ganacsiga guulaysta ee uu Zaki maamulo wuxuu shaqaaleeyay dhalinyaro badan oo danyar ah oo magaalada ku nool.
-SO: Zaki wuxuu saaka diyaariyay qado macaan oo bariis iyo hilib leh oo loo qaybiyay dadka danyarta ah ee xaafadda.
-SO: Dadaalka iyo dhabar adaygga uu muujiyay Zaki ayaa horseeday guushiisa weyn ee uu maanta ku faanayo dalka.
-SO: Zaki wuxuu sarrifka lacagaha qalaad ka sameeyay faaiido weyn caawa suuqa dhexdiisa si daacad ah.
+SO: Cilmi iyo asxaabtiisu waxay galabta ku ciyaarayaan garoonka weyn ee xaafadda dhexdeeda si ay u dabbaaldegaan.
+SO: Beer weyn oo khudaarta dhoofisa waxaa agagaarka webiga ku leh Dalmar oo ah nin dadaal badan.
+SO: Faahiye wuxuu subax kasta raacdaa xoolaha daaqaya buuraha dheer ee dalka gudihiisa si uu u daaqiyo.
+SO: Imtixaankii ugu dambeeyay ee sanadka waxaa kaalinta koowaad ee dugsiga sare galay Guleed oo dadaalay.
+SO: Xayle wuxuu dukaanka weyn ee magaalada ka soo iibsaday baabuur cusub oo qurux badan oo casri ah.
+SO: Qorshaha guud ee dib u dhiska garoonka diyaaradaha waxaa maanta saxiixay Jimcaale oo ah mas'uul dowladeed.
+SO: Keyse wuxuu si naxariis leh u daryeelaa aabihiis oo waayeel ah oo guriga dhexdiisa jooga mar walba.
+SO: Abwaan Looxaan wuxuu tiriyay gabay cusub oo dhiirigelinaya midnimada shacabka Soomaaliyeed mar walba.
+SO: Muuse wuxuu si gaar ah u jecel yahay akhrinta buugaagta cilmiga sayniska iyo bayoolajiga ee cusub.
+SO: Taliyihii ciidanka booliska ee degmada wuxuu u magacaabay Cilmi saraakiisha qaabilsan dhowrista amniga guud.
+SO: Dalmar wuxuu saaka garoonka diyaaradaha ka soo dhaweeyay marti muhiim ah oo ka timid dalka dibaddiisa.
+SO: Dhawaqa heesta macaan ee uu Faahiye ku luuqeeyo waa mid aad u qurux badan oo dejiya dareenka dadka.
+SO: Guleed wuxuu dhoofiyay geel badan oo laga keenay miyiga fog ee gobollada dalka Soomaaliya dhowaan.
+SO: Macallinka taariikhda wuxuu Xayle u sharxay halgankii dheeraa ee loo galay xornimada iyo qarannimada dalkeenna.
+SO: Jimcaale wuxuu dhoodhoobay aqal cusub oo naqshad qurux badan leh oo aad u dhowra deegaanka dabiiciga ah.
+SO: Ganacsiga guulaysta ee uu Keyse maamulo wuxuu shaqaaleeyay dhalinyaro badan oo danyar ah oo magaalada ku nool.
+SO: Looxaan wuxuu saaka diyaariyay qado macaan oo bariis iyo hilib leh oo loo qaybiyay dadka danyarta ah ee xaafadda.
+SO: Dadaalka iyo dhabar adaygga uu muujiyay Muuse ayaa horseeday guushiisa weyn ee uu maanta ku faanayo dalka.
+SO: Cilmi wuxuu sarrifka lacagaha qalaad ka sameeyay faaiido weyn caawa suuqa dhexdiisa si daacad ah.
 SO: Ziyad wuxuu maalgashi weyn ku sameeyay warshadda saabuunta ee magaalada dhexdeeda ku taal dhowaan.
-SO: Ziyad iyo asxaabtiisu waxay galabta ku ciyaarayaan garoonka weyn ee xaafadda dhexdeeda si ay u dabbaaldegaan.
-SO: Beer weyn oo khudaarta dhoofisa waxaa agagaarka webiga ku leh Ziyad oo ah nin ganacsade ah oo dadaal badan.
-SO: Ziyad wuxuu subax kasta raacdaa xoolaha daaqaya buuraha dheer ee dalka gudihiisa si uu u daryeelo.
-SO: Imtixaankii ugu dambeeyay ee sanadka waxaa kaalinta koowaad ee dugsiga sare galay Ziyad oo dadaal weyn muujiyay.
-SO: Ziyad wuxuu dukaanka weyn ee magaalada ka soo iibsaday baabuur cusub oo casri ah oo qurux badan.
-SO: Qorshaha guud ee dib u dhiska garoonka diyaaradaha waxaa maanta saxiixay Ziyad oo ah nin dowladda u shaqeeya.
-SO: Ziyad wuxuu si naxariis leh u daryeelaa aabihiis oo waayeel ah oo guriga dhexdiisa jooga maalin kasta.
-SO: Abwaan Ziyad wuxuu tiriyay gabay cusub oo dhiirigelinaya midnimada shacabka Soomaaliyeed mar walba.
-SO: Ziyad wuxuu si gaar ah u jecel yahay akhrinta buugaagta cilmiga sayniska iyo farsamada casriga ah.
-SO: Taliyihii ciidanka booliska ee degmada wuxuu u magacaabay Ziyad saraakiisha qaabilsan nabadgelyada deegaanka.
-SO: Ziyad wuxuu saaka garoonka diyaaradaha ka soo dhaweeyay marti muhiim ah oo ka timid dalka dibaddiisa dhowaan.
-SO: Dhawaqa heesta macaan ee uu Ziyad ku luuqeeyo waa mid aad u qurux badan oo soo jiidata dareenka dadka.
-SO: Ziyad wuxoo dhoofiyay geel badan oo laga keenay miyiga fog ee gobollada dalkeenna Soomaaliya.
-SO: Macallinka taariikhda wuxuu Ziyad u sharxay halgankii dheeraa ee loo galay xornimada iyo dalkeenna dhismihiisa.
-SO: Ziyad wuxuu dhoodhoobay aqal cusub oo naqshad qurux badan leh oo aad u dhowra deegaanka dabiiciga ah.
-SO: Ganacsiga guulaysta ee uu Ziyad maamulo wuxuu shaqaaleeyay dhalinyaro badan oo danyar ah oo magaalada ku nool.
-SO: Ziyad wuxuu saaka diyaariyay qado macaan oo bariis iyo hilib leh oo loo qaybiyay dadka danyarta ah ee xaafadda.
-SO: Dadaalka iyo dhabar adaygga uu muujiyay Ziyad ayaa horseeday guushiisa weyn ee uu maanta ku faanayo dalka.
-SO: Ziyad wuxuu sarrifka lacagaha qalaad ka sameeyay faaiido weyn caawa suuqa dhexdiisa si daacad ah.
-SO: Go'aanka geesinimada leh ee uu qaatay Ziyad wuxuu badbaadiyay dad badan oo dhibaataysnaa oo deegaanka ku nool.
-SO: Ziyad wuxuu saaka isbitaalka weyn u geeyay hooyadiis si loogu baaro xanuunka indhaha daciifka ah dhowaan.
-SO: Nadaafadda iyo bilicda guud ee xaafadda uu degan yahay waxaa mar kasta u taagan Ziyad oo ah nin firfircoon.
-SO: Ziyad wuxuu buug cusub oo taariikhi ah ka qoray dalkeenna Soomaaliya iyo halgankii dheeraa ee dadkiisa.
-SO: Aqoonta fog ee uu leeyahay Ziyad waxay dalka u horseedi kartaa horumar waara oo bulshadu wada gaarto mustaqbalka.
-SO: Ziyad wuxuu dhowaan ku guulaysatay tartanka orodka dheereeya ee caasimadda dalka oo dhan isagoo faraxsan.
-SO: Dhab dhab ahaan Ziyad wuxuu mar kasta dhowraa ixtiraamka dadka waaweyn ee deegaanka uu degan yahay dhab ahaan.
-SO: Ziyad wuxuu si daacad ah u maamulaa khasnadda guud ee dowladda dhexdeeda si uu ugu adeego shacabkiisa mar kasta.
-SO: Qoyska reer Ziyad waxay caawa u dabaaldegayaan dhalashada gabadha yar ee dhowaan u dhalatay reerka.
-SO: Ziyad wuxuu dukaanka alaabta dhismaha ka soo iibsaday bir adag oo jidka ku xirta ammaanka xaafadda dhexdeeda.
+SO: Nageeye iyo asxaabtiisu waxay galabta ku ciyaarayaan garoonka weyn ee xaafadda dhexdeeda si ay u dabbaaldegaan.
+SO: Beer weyn oo khudaarta dhoofisa waxaa agagaarka webiga ku leh Qawdhan oo ah nin ganacsade ah oo dadaal badan.
+SO: Rashiid wuxuu subax kasta raacdaa xoolaha daaqaya buuraha dheer ee dalka gudihiisa si uu u daryeelo.
+SO: Imtixaankii ugu dambeeyay ee sanadka waxaa kaalinta koowaad ee dugsiga sare galay Sugulle oo dadaal weyn muujiyay.
+SO: Tukaale wuxuu dukaanka weyn ee magaalada ka soo iibsaday baabuur cusub oo casri ah oo qurux badan.
+SO: Qorshaha guud ee dib u dhiska garoonka diyaaradaha waxaa maanta saxiixay Xaashi oo ah nin dowladda u shaqeeya.
+SO: Yaasir wuxuu si naxariis leh u daryeelaa aabihiis oo waayeel ah oo guriga dhexdiisa jooga maalin kasta.
+SO: Abwaan Cismaan wuxuu tiriyay gabay cusub oo dhiirigelinaya midnimada shacabka Soomaaliyeed mar walba.
+SO: Buraale wuxuu si gaar ah u jecel yahay akhrinta buugaagta cilmiga sayniska iyo farsamada casriga ah.
+SO: Taliyihii ciidanka booliska ee degmada wuxuu u magacaabay Ducaale saraakiisha qaabilsan nabadgelyada deegaanka.
+SO: Faadil wuxuu saaka garoonka diyaaradaha ka soo dhaweeyay marti muhiim ah oo ka timid dalka dibaddiisa dhowaan.
+SO: Dhawaqa heesta macaan ee uu Gaban ku luuqeeyo waa mid aad u qurux badan oo soo jiidata dareenka dadka.
+SO: Nageeye wuxoo dhoofiyay geel badan oo laga keenay miyiga fog ee gobollada dalkeenna Soomaaliya.
+SO: Macallinka taariikhda wuxuu Qawdhan u sharxay halgankii dheeraa ee loo galay xornimada iyo dalkeenna dhismihiisa.
+SO: Rashiid wuxuu dhoodhoobay aqal cusub oo naqshad qurux badan leh oo aad u dhowra deegaanka dabiiciga ah.
+SO: Ganacsiga guulaysta ee uu Sugulle maamulo wuxuu shaqaaleeyay dhalinyaro badan oo danyar ah oo magaalada ku nool.
+SO: Tukaale wuxuu saaka diyaariyay qado macaan oo bariis iyo hilib leh oo loo qaybiyay dadka danyarta ah ee xaafadda.
+SO: Dadaalka iyo dhabar adaygga uu muujiyay Xaashi ayaa horseeday guushiisa weyn ee uu maanta ku faanayo dalka.
+SO: Yaasir wuxuu sarrifka lacagaha qalaad ka sameeyay faaiido weyn caawa suuqa dhexdiisa si daacad ah.
+SO: Go'aanka geesinimada leh ee uu qaatay Cismaan wuxuu badbaadiyay dad badan oo dhibaataysnaa oo deegaanka ku nool.
+SO: Buraale wuxuu saaka isbitaalka weyn u geeyay hooyadiis si loogu baaro xanuunka indhaha daciifka ah dhowaan.
+SO: Nadaafadda iyo bilicda guud ee xaafadda uu degan yahay waxaa mar kasta u taagan Ducaale oo ah nin firfircoon.
+SO: Faadil wuxuu buug cusub oo taariikhi ah ka qoray dalkeenna Soomaaliya iyo halgankii dheeraa ee dadkiisa.
+SO: Aqoonta fog ee uu leeyahay Gaban waxay dalka u horseedi kartaa horumar waara oo bulshadu wada gaarto mustalkalka.
+SO: Nageeye wuxuu dhowaan ku guulaysatay tartanka orodka dheereeya ee caasimadda dalka oo dhan isagoo faraxsan.
+SO: Dhab dhab ahaan Qawdhan wuxuu mar kasta dhowraa ixtiraamka dadka waaweyn ee deegaanka uu degan yahay dhab ahaan.
+SO: Rashiid wuxuu si daacad ah u maamulaa khasnadda guud ee dowladda dhexdeeda si uu ugu adeego shacabkiisa mar kasta.
+SO: Qoyska reer Sugulle waxay caawa u dabaaldegayaan dhalashada gabadha yar ee dhowaan u dhalatay reerka.
+SO: Tukaale wuxuu dukaanka alaabta dhismaha ka soo iibsaday bir adag oo jidka ku xirta ammaanka xaafadda dhexdeeda.
 SO: Jasiiradda Zanjibar waxay caan ku tahay dalxiiska iyo beerashada udugga udgoon ee caanka ah adduunka dhan.
 SO: Zambiya waa dal ku yaal qaaradda Afrika oo leh kheyraad badan oo dabiici ah oo dadka waxtar u leh.
 SO: Zimbabwe waa dal ku yaal koonfurta qaaradda Afrika oo leh buuro dhaadheer oo dalxiisayaashu booqdaan.
