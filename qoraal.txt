@@ -983,3 +983,60 @@ SO: Ku dhowaad cidina ma helin kii magaceeda watay.
 SO: Markaas ayay ku tiri qof walba ha qaato buufinka ugu dhow oo ha gaarsiiyo qofka iska leh.
 SO: Laba daqiiqo gudahood qof walba wuxuu helay buufinkiisii.
 SO: Tani waxay muujisay in farxaddaada ugu dhaqsaha badan lagu gaari karo adigoo dadka kale caawinaya.
+SO: Laba arday oo mataano ah ayaa u fariistay imtixaan adag.
+SO: Waxay isku jireen masaafo yar, laakiin macallin ayaa eegayay.
+SO: Macallinkii wuxuu dareemay wax qariib ah oo ay samaynayeen.
+SO: Waxay isku mar ruxayeen madaxa, kuraastana ku dhaqdhaqaaqayeen.
+SO: Sidoo kale waraaqaha imtixaanka ayay isku waqti rogayeen.
+SO: Waxay u muuqatay in ficilkoodu ahaa mid si fiican u qorshaysan.
+SO: Sidaas darteed wuu dacweeyay isagoo ku eedeeyay inay qishayeen.
+SO: Eedeyntii ayaa iskuulka ku faaftay, cadaawaddiina way sii xumaatay.
+SO: Ugu dambayn, iskuulkii way ka baxeen oo riyadoodii way dhaafteen.
+SO: Waxay ka tanaasuleen qorshahoodii ahaa inay mustaqbalka dhakhaatiir noqdaan.
+SO: Maxkamad ayay tageen, xeer beegtidana xaqqa ayay u siiyeen.
+SO: Waxaana la siiyay magdhow ka badan hal milyan oo doollar.
+SO: Marka ayeeyadaa la gubo, dambaskeeda waxaa lagu daraa macdano budo ah.
+SO: Ka dibna biyo ayaa lagu qasaa ilaa uu kareem noqdo.
+SO: Intaas ka dib, waxaa dhoobo laga sameeyaa koobka qaxwaha.
+SO: Koobkaas dhoobada ah ayaa lagu dhex kariyaa foorno aad u weyn.
+SO: Markuu qalalo, ayaa lagu dhex ridaa dareerihii dambaska lahaa.
+SO: Ka dibna mar labaad ayaa dib loogu celiyaa foornada weyn.
+SO: Dareeraha ayaa kululaanaya oo dhalaalinaya macdantii ku jirtay dambaska.
+SO: Tani waxay koobka ka dhigaysaa dhalo aad u adag.
+SO: Waxaana ku dhex xanniban qaybo yaryar oo dambaskii ayeeyadaa ah.
+SO: Sidaas darteed, koob kasta oo aad cabto iyada ayaad la wadaagaysaa.
+SO: Daasadda buskudka ee Pringles gabi ahaanba ka daadi waxa ku jira.
+SO: Ka dibna ka buuxi jalaato adigoo si fiican u cufaya.
+SO: Waa inaysan dhexda ku harin wax daloollo ama banaan ah.
+SO: Intaas ka dib, ulaha jalaatada dhinacyada ka dhex geli daasadda.
+SO: Marka aad daasadda geliso qaboojiyaha, jalaatada ayaa si fiican u adkaanaysa.
+SO: Waxayna si adag ugu dhegaysaa ulaha aad ka dhex gelisay.
+SO: Markay fadhiisato, daasadda u jarjar qaab goobooyin yaryar ah.
+SO: Ka fuji waraaqaha iyo qolofta ku dhegan daasadda dibaddeeda.
+SO: Mid kasta dhex geli weel ay ku jirto shukulaato dhalaashay.
+SO: Ugu dambayn waxaad helaysaa jalaatada macaan ee loo yaqaano Pringles.
+
+SO: Waagii hore, xaafadda oo dhan waxay wadaagi jireen hal khad taleefan.
+SO: Haddii aad taleefankaaga qaadato, waxaad maqli kartay sheekada deriskaaga.
+SO: Marka qof la soo wacona, guri kasta wuu wada dhici jiray.
+SO: Laakiin qaybta ugu yaabka badan ee arrintan ayaa ahayd.
+SO: In guri kasta uu lahaa dhawaaq garaac oo u gaar ah.
+SO: Sidaas darteed waa inaad si fiican u xafiddo dhawaaqaaga gaarka ah.
+SO: Haddii kale waxaad si qalad ah u qabanaysaa taleefan qof kale.
+SO: Markaad rabto inaad wicitaan samayso, waa inaad marka hore dhegaysataa taleefanka.
+SO: Sababtoo ah qof deriska ah ayaa laga yaabaa inuu horay u hadlayay.
+SO: Farsamo ahaan, waxaa lagugu amrayay inaad dhigto haddii qof isticmaalayo.
+SO: Laakiin dadka oo dhan ma samayn jirin oo way dhegaysan jireen.
+
+SO: Gabadh yar ayaa ri'deeda siin jirtay raashin maalin kasta.
+SO: Tani waxay keentay inay aad isugu xirmaan oo ay jeclaato.
+SO: Markii la gaaray waqtigii xaraashka, way diidday inay iska fasaxdo ri'da.
+SO: Sarkaallada ayaa si kastaba u xaraashay si ay u gowracaan.
+SO: Sidaas darteed hooyadeed ayaa si degdeg ah u kaxaysay ri'dii.
+SO: Waxay wadday masaafo ka badan laba boqol oo mayl.
+SO: Ujeedku wuxuu ahaa inay ku qariso beer aad u fog.
+SO: Laakiin maamulkii dowladda ayaa si qoto dheer u soo raadraacay.
+SO: Waxay xoog ku qabteen ri'dii, carwadiina dib ayay ugu soo celiyeen.
+SO: Halkaas oo ugu dambayntii lagu gowracay ri'dii miskiinta ahayd.
+SO: Hooyadeed ayaa dacwad gudbisay, iyadoo sheegtay in xuquuqdooda lagu xadgudbay.
+SO: Kiiskiina waxaa lagu xaliyay magdhow dhan saddex boqol oo kun oo doollar.
