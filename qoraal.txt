@@ -702,7 +702,6 @@ SO: Guddiga nabadaynta waxay ku guulaysteen inay heshiiyaan labadii reer ee is h
 SO: Geedka baxaya meesha cidlada ah wuxuu u adkaystaa kulaylka daran iyo harraadka xun.
 SO: Garaadka qofka waxaa lagu qiyaasaa sida uu u xalliyo dhibaatooyinka adag ee nolosha.
 SO: Hooyadu waa tiirka ugu adag ee guriga waxayna carruurta siisaa jacayl aan waligii dhammaanayn.
-SO: Hargeysa waxaa ku yaal buuro qadiimi ah oo leh farshaxan xilli hore la sameeyay.
 SO: Hodan waxay saaka diyaarisay qado macaan oo hilib ari leh oo suuqa laga keenay.
 SO: Hurdada ku filan oo habeenkii la seexdo waxay maskaxda siisaa awood ay si fiican ugu shaqeyso.
 SO: Haddii roobku si fiican u da'o, dhulka oo dhan wuxuu noqdaa cagaar iyo barwaaqo.
@@ -747,7 +746,7 @@ SO: Jilayaasha riwaayadda waxay soo bandhigeen sheeko aad u xiiso badan oo ku sa
 SO: Jilbaha iyo xubnaha jirka waxay u baahan yihiin jimicsi joogto ah si caafimaad loo helo.
 SO: Jidka aada dhanka dekedda waxaa ku xannaqay baabuur waaweyn oo xamuul ah saaka.
 SO: Janno waa halka ay hiigsanayaan dhammaan dadka rumeeyay Eebbe ee sameeya camalka suuban.
-SO: Jaiiradda yar ee ku taal badweynta Hindiya waxay caan ku tahay kalluunka qaniga ah.
+SO: Ja siiradda yar ee ku taal badweynta Hindiya waxay caan ku tahay kalluunka qaniga ah.
 SO: Jidka laamiga ah ee dhowaan la dhisay wuxuu fududeeyay isku socodka gaadiidka iyo ganacsiga.
 SO: Jaiiradaha quruxda badan ee u dhow xeebta waxay leeyihiin hawo aad u qabow oo fiican.
 SO: Jiirka yari wuxuu ku dhuuntay daloolka yar ee ku yaal geeska qolka fadhiga.
@@ -972,7 +971,6 @@ SO: Hoteelladii qaarna waxay bixiyeen raalligelin rasmi ah.
 SO: Laba waalid ah ayaa carruurtoodii kaga tagay hotelka iyagoo seexda.
 SO: Waxay u baxeen makhaayad meel aan sidaas uga fogayn.
 SO: Markii hooyadu dib ugu soo noqotay, waxay aragtay sariirtii gabadheeda oo madhan.
-SO: Daaqaddiina way furnayd.
 SO: Waalidkii waxay bilaabeen inay meel walba ka raadiyaan gabadhooda.
 SO: Booliiska iyo dadka deegaankuba way ka qayb qaateen raadinta.
 SO: Si kastaba ha ahaatee, wax raad ah lagama helin gabadha.
@@ -1015,7 +1013,6 @@ SO: Markay fadhiisato, daasadda u jarjar qaab goobooyin yaryar ah.
 SO: Ka fuji waraaqaha iyo qolofta ku dhegan daasadda dibaddeeda.
 SO: Mid kasta dhex geli weel ay ku jirto shukulaato dhalaashay.
 SO: Ugu dambayn waxaad helaysaa jalaatada macaan ee loo yaqaano Pringles.
-
 SO: Waagii hore, xaafadda oo dhan waxay wadaagi jireen hal khad taleefan.
 SO: Haddii aad taleefankaaga qaadato, waxaad maqli kartay sheekada deriskaaga.
 SO: Marka qof la soo wacona, guri kasta wuu wada dhici jiray.
@@ -1027,7 +1024,6 @@ SO: Markaad rabto inaad wicitaan samayso, waa inaad marka hore dhegaysataa talee
 SO: Sababtoo ah qof deriska ah ayaa laga yaabaa inuu horay u hadlayay.
 SO: Farsamo ahaan, waxaa lagugu amrayay inaad dhigto haddii qof isticmaalayo.
 SO: Laakiin dadka oo dhan ma samayn jirin oo way dhegaysan jireen.
-
 SO: Gabadh yar ayaa ri'deeda siin jirtay raashin maalin kasta.
 SO: Tani waxay keentay inay aad isugu xirmaan oo ay jeclaato.
 SO: Markii la gaaray waqtigii xaraashka, way diidday inay iska fasaxdo ri'da.
