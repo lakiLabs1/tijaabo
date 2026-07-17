@@ -1,5 +1,3 @@
-
-
 SO: Gawarta waxaa xeebta ku go'doomiyey waalidiintii soo korsaday.
 SO: Waxay ka tuureen xeebta iyagoon laba labayn si ay dambiga u qariyaan.
 SO: Xataa waxay gawarta ku tuureen badda moolka dheer.
@@ -834,116 +832,154 @@ SO: Maxkamadda sare waxay xukun caddaalad ah ka gaartay khilaafkii u dhexeeyay l
 SO: Macallinka Quraanka wuxuu u duceeyay ubadka yar yar ee dhameeyay hifdiga kitaabka.
 SO: Maamulka isbitaalka dowladda wuxuu go'aamiyay in la kordhiyo saacadaha shaqada rasmiga ah.
 SO: Masaajidka qadiimiga ah ee ku yaal degmada
-SO: Haddii aad ilowdo meeshii aad baabuurka dhigatay, waxaad riixi lahayd badhan ku yaal furaha baabuurkaaga. SO: Markiiba nalka dahab ka ah ayaa ka soo bixi lahaa saqafka baabuurka. SO: Isla waqtigaasna, seeriga yar ee digniinta ayaa bilaabi lahaa dhawaaq xooggan. SO: Haddii aad bixisay adeegga heerka sare ah, diyaarad yar oo Drone ah ayaa ka soo bixi lahayd qaybta dambe ee baabuurka. SO: Waxay ku heli lahayd meesha aad joogto ee goobta baabuurta la dhigto. SO: Kadibna waxay dib kuugu hagi lahayd baabuurkaaga, sidii qof la badbaadinayo oo kale. SO: Haddii aad weli heli weydo baabuurka, nidaamka Haydarooliga ee taayirrada ayaa shaqayn lahaa. SO: Taasi waxay ka dhigi lahayd baabuurka inuu kor iyo hoos u boodo si uu si fudud u muuqdo. SO: Waxa kale oo saqafka laga soo tuuri lahaa iftiinno calaamadeyn ah. SO: Taasi waxay kuu sahlaysaa adiga iyo booliskaba inaad heshaan goobta baabuurkaagu yaallo.
-SO: Wiilkeedii ayaa la waayay, booliskiina waxay si quus ah u raadinayeen. SO: Shan bilood ka dib, boolisku waxay ugu dambayn heleen wiilka. SO: Waxaa laga helay meel ku dhawaad laba kun oo mayl u jirta gurigiisa. SO: Laakiin markii guriga la keenay, hooyadiis waxay sheegtay inuusan ahayn wiilkeedii. SO: Iyadoo taasi jirto, boolisku waxay ku qanciyeen inay guriga u qaadato. SO: Waxay doonayeen oo keliya inay xiraan galka dacwadda. SO: Saddex toddobaad ka dib, waxay u soo bandhigtay diiwaannada ilkaha ee caddeynaya in wiilkaasi yahay qof ajnabi ah. SO: Hase yeeshee, weli ma aysan dhegaysan hadalkeeda. SO: Halkii ay rumayn lahaayeen, waxay ku eedeeyeen inay tahay hooyo xun. SO: Kadibna waxay geeyeen xarun lagu dabiibo dadka qaba xanuunnada dhimirka. SO: Ugu dambayntii, wiilkii ayaa qirtay inuu ahaa khiyaanoole. SO: Wuxuu sheegay inuu doonayay oo keliya safar bilaash ah oo uu ku tago Hollywood. SO: Wiilkii dhabta ahaa ee haweenayda ayaase weligiis aan la helin.
-SO: Qalabka lagu tallaalay ayaa markii hore la geliyay maqaarkiisa hoostiisa. SO: Kadibna waxaa lagu duray biyo cusbo leh si loo kala bixiyo maqaarka ku hareeraysan. SO: Intaa ka dib, qalabkii ayaa dib looga saaray meeshaas. SO: Dhegta macmalka ah ee caagga ka samaysan ayaana lagu beddelay. SO: Jidhkiisu wuxuu bilaabay inuu dhegtaas u sameeyo xididdo dhiig oo cusub. SO: Taasi waxay ka dhigtay dhegta inay noqoto qayb nool oo ka mid ah gacantiisa. SO: Kadibna, makarafoon yar ayaa lagu rakibay gudaha dhegta si uu codadka u qabto. SO: Hase yeeshee, markii meeshaasi caabuqday, makarafoonkii waa laga saaray. SO: Hadda, wuxuu qorshaynayaa inuu unugyadiisa jirka ku sameeyo bololka hoose ee dhegta. SO: Waxa kale oo uu doonayaa inuu ku rakibo makarafoon cusub oo leh tiknoolajiyada WiFi-ga. SO: Taas oo dadka u oggolaan doonta inay codadka ku maqlaan dhegtiisa saddexaad.
-SO: Raha ayaa laablaaba cagtiisa, taas oo keenta in caarada lafaha faraha cagtu ay ka baxaan meeshoodii dabiiciga ahayd. SO: Kadibna seedihiisu waxay hoos u jiidaan lafahaas ilaa ay maqaarka ka mudaan. SO: Dhowr laad oo keliya ayuu si toos ah ugu jeexi karaa maqaarka ugaarsadaha. SO: Marka dagaalku dhammaado, cidiyihii ayaa ugu dambayn dib ugu noqda meeshoodii hore. SO: Marka maqaarku bogsado ka dib, cidiyaha fiiqan ayaa mar kale ku qarsooma gudaha. SO: Waxayna sidaas ku sii ahaadaan ilaa mar kale loo baahdo.
-SO: Haddii aad si xooggan miiska ugu dhufato dhalada qabow, biyaha ku jira ayaa si lama filaan ah u barafoobi doona. SO: Tani waxay dhacdaa marka biyo saafi ah lagu shubo dhalo siman, dabadeedna lagu qaboojiyo heer ka hooseeya barta barafoobidda. SO: Biyuhu waxay u baahan yihiin wax yar oo ay ku bilaabaan samaysanka kiristaallada barafka, sida xag yar oo ku yaal caagga ama boodh yar. SO: Haddii waxyaalahan maqan yihiin, molikuyuullada biyuhu waxay sii ahaanayaan qaabkoodii dareeraha ahaa. SO: Laakiin marka aad dhalada miiska ku dhufato, molikuyuullada ayaa dhaqaaqa. SO: Taasi ayaana ugu dambayn kicisa inay isu beddelaan kiristaallo baraf ah.
-SO: Iliggu wuxuu ka soo baxaa cirridka mana joojiyo koritaanka ilaa uu u qallooco sida jillaab oo kale. SO: Ugu dambaynna wuxuu si toos ah ugu mudmaa lafta madaxa. SO: Bakayluhu maalin kasta wuxuu calaliyaa caws qallafsan, taas oo ilkihiisa u duleysa si la mid ah sida ay u koraan. SO: Laakiin marka uu cuno caws yar, ilkaha ayaa si tartiib tartiib ah u qallooca. SO: Sidaas darteed, kuwa is taabanaya ayaa gaagaaban sii ahaanaya. SO: Halka kuwa kale ay sii koraan si aan kala joogsi lahayn. SO: Ugu dambayn bakayluhu ma awoodo inuu wax cuno. SO: Sidaa darteed, dhakhtarka xoolaha ayaa ku khasbanaada inuu gaabiyo ilkahaas ka hor intaysan mar kale dheeraan.
-SO: Maraakiibtu waxay marka hore galaan qol weyn oo shub ka samaysan oo ku yaal meel hoose. SO: Kadibna albaabbo bir ah ayaa labada daraf laga xiraa si gebi ahaanba loo xiro qolka. SO: Intaas ka dib, waallayaasha biyaha ayaa la furaa, biyuhuna waxay ka soo galaan marinnada shubka ah ee derbiyada ku yaal. SO: Marka heerka biyuhu kor u kaco, waxay kor u qaadaan markabka. SO: Kadibna albaabka hore ayaa la furaa, markabkuna wuxuu u gudbaa qolka xiga. SO: Hannaankuna mar kale ayuu ku soo noqnoqdaa, isagoo tallaabo tallaabo kor ugu qaadaya markabka. SO: Ugu dambayn, markabka waxaa la gaarsiiyaa meel siddeetan iyo shan cagood ka sarraysa heerka badda. SO: Halkaas ayuu uga gudbaa haro dhex marta kaynta cufan. SO: Kadibna isla nidaamkan ayaa si lid ku ah loo adeegsadaa si biyaha looga saaro oo markabka dib loogu soo dejiyo. SO: Taasi waxay u oggolaanaysaa maraakiibta inay uga gudbaan hal bad una gudbaan tan kale iyaga oo aan ku khasbanaan inay hareer maraan dhulka.
-SO: Waxaa hooyadii ka tagtay isaga oo weli ilmo yar ah. SO: Sidaas darteed, waxaa loo dhiibay bahal orangutan ah oo caruusad ka samaysan si uu ugu dhowaado. SO: Meel kasta ayuu la tegi jiray. SO: Mar kasta oo daanyeerrada kale ay dhibaan, wuxuu dib ugu carari jiray caruusaddiisa. SO: Wuxuuna isku dhejin jiray sidii inay hooyadii tahay. SO: Kadib markii muuqaalladiisu ku faafeen baraha bulshada, daraasiin caruusadood ayaa loo soo diray beerta xayawaanka. SO: Muddo yar ka dibna, wuxuu bilaabay inuu barto sida uu ula xiriiri lahaa daanyeerrada kale. SO: Ugu dambayntiina, waxay u aqbaleen inuu ka mid yahay iyaga.
-SO: Marka aad jebiso ukunta weyn, waxaad ka heli kartaa ukun kale oo dhamaystiran gudaheeda. SO: Kadibna waxaad u jebin kartaa sidii ukun caadi ah. SO: Tani waxay dhacdaa sababtoo ah ukuntu waxay ku bilaabataa xabbo jaalle ah. SO: Marka la sii daayo ka dib, waxay dhex martaa jidhka digaagga. SO: Halkaasna waxaa ku samaysma dheecaanka cad iyo qolofka ukunta. SO: Haddii xabbo jaalle kale la sii daayo ka hor inta aan ukuntu dhalan, ukuntii hore ayaa dib loo nuugi karaa. SO: Waxayna ku biiraysaa xabbada jaallaha ah ee cusub. SO: Kadibna mar kale ayaa lagu daraa dheecaanka cad iyo qolofka, kuwaas oo wada hareeraynaya labadoodaba. SO: Haddii laba xabbo oo jaalle ahi isku mar soo baxaan, waxaa suuragal ah inaad hesho ukun laba jaalle leh oo ay ku jirto ukun kale oo si buuxda u samaysantay.
-SO: Qolalka maxaabiista waxaa loo habeeyay qaab goobo ah waxaana si joogto ah loogu shiday nalal aad u ifaya. SO: Kadibna waxaa bartamaha laga dhisay munaarad leh daaqado dhinac kasta ku yaal. SO: Hal ilaaliye oo keliya ayaana lagu dhex meeleeyay. SO: Munaaraddu waxay ku jirtay hoos mugdi ah, taas oo qarinaysay ilaaliyaha. SO: Sidaas darteed, wuxuu arki karay maxaabiista. SO: Laakiin iyagu ma arki karin waxa ka dhex jira munaaradda. SO: Sidaa awgeed, marna ma ogaan jirin goorta la daawanayo. SO: Taasi waxay ku reebtay cabsi joogto ah, iyagoo aan garanayn in ilaaliyuhu dhabarka u jeediyo iyo in kale. SO: Nidaamkani wuxuu ku khasbay boqolaal maxaabiis ah inay mar walba dhaqankooda ilaashadaan. SO: Xitaa haddii hal ilaaliye oo keliya uu shaqada joogo.
-SO: Wuxuu ku siibtay saqafka guriga isaga oo isku dayaya inuu qabto bisadda. SO: Kadibna wuxuu ku dhacay meel cidhiidhi ah oo u dhexaysa labada guri. SO: Isagoo isku dayaya inuu ka baxo, ayuu sii dhex galay ilaa uu gebi ahaanba ku dhegay meel ka yar hal cag oo ballac ah. SO: Derisyadu waxay isku dayeen inay soo saaraan. SO: Laakiin ma ay awoodin iyaga oo aan xanuun u geysan. SO: Sidaas darteed, dab-damiyeyaashu waxay ku mariyeen saliidda cuntada lagu karsado. SO: Taasi waxay ka dhigtay jirkiisa mid simbiriirixanaya. SO: Kadibna si tartiib tartiib ah ayay derbiga dhinaciisa uga soo jiideen. SO: Ugu dambayntiina, si nabad ah ayaa looga soo saaray meeshii uu ku dhegay.
-
+SO: Haddii aad ilowdo meeshii aad baabuurka dhigatay, waxaad riixi lahayd badhan ku yaal furaha baabuurkaaga.
+SO: Markiiba nalka dahab ka ah ayaa ka soo bixi lahaa saqafka baabuurka.
+SO: Isla waqtigaasna, seeriga yar ee digniinta ayaa bilaabi lahaa dhawaaq xooggan.
+SO: Haddii aad bixisay adeegga heerka sare ah, diyaarad yar oo Drone ah ayaa ka soo bixi lahayd qaybta dambe ee baabuurka.
+SO: Waxay ku heli lahayd meesha aad joogto ee goobta baabuurta la dhigto.
+SO: Kadibna waxay dib kuugu hagi lahayd baabuurkaaga, sidii qof la badbaadinayo oo kale.
+SO: Haddii aad weli heli weydo baabuurka, nidaamka Haydarooliga ee taayirrada ayaa shaqayn lahaa.
+SO: Taasi waxay ka dhigi lahayd baabuurka inuu kor iyo hoos u boodo si uu si fudud u muuqdo.
+SO: Waxa kale oo saqafka laga soo tuuri lahaa iftiinno calaamadeyn ah.
+SO: Taasi waxay kuu sahlaysaa adiga iyo booliskaba inaad heshaan goobta baabuurkaagu yaallo.
+SO: Wiilkeedii ayaa la waayay, booliskiina waxay si quus ah u raadinayeen.
+SO: Shan bilood ka dib, boolisku waxay ugu dambayn heleen wiilka.
+SO: Waxaa laga helay meel ku dhawaad laba kun oo mayl u jirta gurigiisa.
+SO: Laakiin markii guriga la keenay, hooyadiis waxay sheegtay inuusan ahayn wiilkeedii.
+SO: Iyadoo taasi jirto, boolisku waxay ku qanciyeen inay guriga u qaadato.
+SO: Waxay doonayeen oo keliya inay xiraan galka dacwadda.
+SO: Saddex toddobaad ka dib, waxay u soo bandhigtay diiwaannada ilkaha ee caddeynaya in wiilkaasi yahay qof ajnabi ah.
+SO: Hase yeeshee, weli ma aysan dhegaysan hadalkeeda.
+SO: Halkii ay rumayn lahaayeen, waxay ku eedeeyeen inay tahay hooyo xun.
+SO: Kadibna waxay geeyeen xarun lagu dabiibo dadka qaba xanuunnada dhimirka.
+SO: Ugu dambayntii, wiilkii ayaa qirtay inuu ahaa khiyaanoole.
+SO: Wuxuu sheegay inuu doonayay oo keliya safar bilaash ah oo uu ku tago Hollywood.
+SO: Wiilkii dhabta ahaa ee haweenayda ayaase weligiis aan la helin.
+SO: Qalabka lagu tallaalay ayaa markii hore la geliyay maqaarkiisa hoostiisa.
+SO: Kadibna waxaa lagu duray biyo cusbo leh si loo kala bixiyo maqaarka ku hareeraysan.
+SO: Intaa ka dib, qalabkii ayaa dib looga saaray meeshaas.
+SO: Dhegta macmalka ah ee caagga ka samaysan ayaana lagu beddelay.
+SO: Jidhkiisu wuxuu bilaabay inuu dhegtaas u sameeyo xididdo dhiig oo cusub.
+SO: Taasi waxay ka dhigtay dhegta inay noqoto qayb nool oo ka mid ah gacantiisa.
+SO: Kadibna, makarafoon yar ayaa lagu rakibay gudaha dhegta si uu codadka u qabto.
+SO: Hase yeeshee, markii meeshaasi caabuqday, makarafoonkii waa laga saaray.
+SO: Hadda, wuxuu qorshaynayaa inuu unugyadiisa jirka ku sameeyo bololka hoose ee dhegta.
+SO: Waxa kale oo uu doonayaa inuu ku rakibo makarafoon cusub oo leh tiknoolajiyada WiFiga.
+SO: Taas oo dadka u oggolaan doonta inay codadka ku maqlaan dhegtiisa saddexaad.
+SO: Raha ayaa laablaaba cagtiisa, taas oo keenta in caarada lafaha faraha cagtu ay ka baxaan meeshoodii dabiiciga ahayd.
+SO: Kadibna seedihiisu waxay hoos u jiidaan lafahaas ilaa ay maqaarka ka mudaan.
+SO: Dhowr laad oo keliya ayuu si toos ah ugu jeexi karaa maqaarka ugaarsadaha.
+SO: Marka dagaalku dhammaado, cidiyihii ayaa ugu dambayn dib ugu noqda meeshoodii hore.
+SO: Marka maqaarku bogsado ka dib, cidiyaha fiiqan ayaa mar kale ku qarsooma gudaha.
+SO: Waxayna sidaas ku sii ahaadaan ilaa mar kale loo baahdo.
+SO: Haddii aad si xooggan miiska ugu dhufato dhalada qabow, biyaha ku jira ayaa si lama filaan ah u barafoobi doona.
+SO: Tani waxay dhacdaa marka biyo saafi ah lagu shubo dhalo siman, dabadeedna lagu qaboojiyo heer ka hooseeya barta barafoobidda.
+SO: Biyuhu waxay u baahan yihiin wax yar oo ay ku bilaabaan samaysanka kiristaallada barafka, sida xag yar oo ku yaal caagga ama boodh yar.
+SO: Haddii waxyaalahan maqan yihiin, molikuyuullada biyuhu waxay sii ahaanayaan qaabkoodii dareeraha ahaa.
+SO: Laakiin marka aad dhalada miiska ku dhufato, molikuyuullada ayaa dhaqaaqa.
+SO: Taasi ayaana ugu dambayn kicisa inay isu beddelaan kiristaallo baraf ah.
+SO: Iliggu wuxuu ka soo baxaa cirridka mana joojiyo koritaanka ilaa uu u qallooco sida jillaab oo kale.
+SO: Ugu dambaynna wuxuu si toos ah ugu mudmaa lafta madaxa.
+SO: Bakayluhu maalin kasta wuxuu calaliyaa caws qallafsan, taas oo ilkihiisa u duleysa si la mid ah sida ay u koraan.
+SO: Laakiin marka uu cuno caws yar, ilkaha ayaa si tartiib tartiib ah u qallooca.
+SO: Sidaas darteed, kuwa is taabanaya ayaa gaagaaban sii ahaanaya.
+SO: Halka kuwa kale ay sii koraan si aan kala joogsi lahayn.
+SO: Ugu dambayn bakayluhu ma awoodo inuu wax cuno.
+SO: Sidaa darteed, dhakhtarka xoolaha ayaa ku khasbanaada inuu gaabiyo ilkahaas ka hor intaysan mar kale dheeraan.
+SO: Maraakiibtu waxay marka hore galaan qol weyn oo shub ka samaysan oo ku yaal meel hoose.
+SO: Kadibna albaabbo bir ah ayaa labada daraf laga xiraa si gebi ahaanba loo xiro qolka.
+SO: Intaas ka dib, waallayaasha biyaha ayaa la furaa, biyuhuna waxay ka soo galaan marinnada shubka ah ee derbiyada ku yaal.
+SO: Marka heerka biyuhu kor u kaco, waxay kor u qaadaan markabka.
+SO: Kadibna albaabka hore ayaa la furaa, markabkuna wuxuu u gudbaa qolka xiga.
+SO: Hannaankuna mar kale ayuu ku soo noqnoqdaa, isagoo tallaabo tallaabo kor ugu qaadaya markabka.
+SO: Ugu dambayn, markabka waxaa la gaarsiiyaa meel siddeetan iyo shan cagood ka sarraysa heerka badda.
+SO: Halkaas ayuu uga gudbaa haro dhex marta kaynta cufan.
+SO: Kadibna isla nidaamkan ayaa si lid ku ah loo adeegsadaa si biyaha looga saaro oo markabka dib loogu soo dejiyo.
+SO: Taasi waxay u oggolaanaysaa maraakiibta inay uga gudbaan hal bad una gudbaan tan kale iyaga oo aan ku khasbanaan inay hareer maraan dhulka.
+SO: Waxaa hooyadii ka tagtay isaga oo weli ilmo yar ah.
+SO: Sidaas darteed, waxaa loo dhiibay bahal orangutan ah oo caruusad ka samaysan si uu ugu dhowaado.
+SO: Meel kasta ayuu la tegi jiray.
+SO: Mar kasta oo daanyeerrada kale ay dhibaan, wuxuu dib ugu carari jiray caruusaddiisa.
+SO: Wuxuuna isku dhejin jiray sidii inay hooyadii tahay.
+SO: Kadib markii muuqaalladiisu ku faafeen baraha bulshada, daraasiin caruusadood ayaa loo soo diray beerta xayawaanka.
+SO: Muddo yar ka dibna, wuxuu bilaabay inuu barto sida uu ula xiriiri lahaa daanyeerrada kale.
+SO: Ugu dambayntiina, waxay u aqbaleen inuu ka mid yahay iyaga.
+SO: Marka aad jebiso ukunta weyn, waxaad ka heli kartaa ukun kale oo dhamaystiran gudaheeda.
+SO: Kadibna waxaad u jebin kartaa sidii ukun caadi ah.
+SO: Tani waxay dhacdaa sababtoo ah ukuntu waxay ku bilaabataa xabbo jaalle ah.
+SO: Marka la sii daayo ka dib, waxay dhex martaa jidhka digaagga.
+SO: Halkaasna waxaa ku samaysma dheecaanka cad iyo qolofka ukunta.
+SO: Haddii xabbo jaalle kale la sii daayo ka hor inta aan ukuntu dhalan, ukuntii hore ayaa dib loo nuugi karaa.
+SO: Waxayna ku biiraysaa xabbada jaallaha ah ee cusub.
+SO: Kadibna mar kale ayaa lagu daraa dheecaanka cad iyo qolofka, kuwaas oo wada hareeraynaya labadoodaba.
+SO: Haddii laba xabbo oo jaalle ahi isku mar soo baxaan, waxaa suuragal ah inaad hesho ukun laba jaalle leh oo ay ku jirto ukun kale oo si buuxda u samaysantay.
+SO: Qolalka maxaabiista waxaa loo habeeyay qaab goobo ah waxaana si joogto ah loogu shiday nalal aad u ifaya.
+SO: Kadibna waxaa bartamaha laga dhisay munaarad leh daaqado dhinac kasta ku yaal.
+SO: Hal ilaaliye oo keliya ayaana lagu dhex meeleeyay.
+SO: Munaaraddu waxay ku jirtay hoos mugdi ah, taas oo qarinaysay ilaaliyaha.
+SO: Sidaas darteed, wuxuu arki karay maxaabiista.
+SO: Laakiin iyagu ma arki karin waxa ka dhex jira munaaradda.
+SO: Sidaa awgeed, marna ma ogaan jirin goorta la daawanayo.
+SO: Taasi waxay ku reebtay cabsi joogto ah, iyagoo aan garanayn in ilaaliyuhu dhabarka u jeediyo iyo in kale.
+SO: Nidaamkani wuxuu ku khasbay boqolaal maxaabiis ah inay mar walba dhaqankooda ilaashadaan.
+SO: Xitaa haddii hal ilaaliye oo keliya uu shaqada joogo.
+SO: Wuxuu ku siibtay saqafka guriga isaga oo isku dayaya inuu qabto bisadda.
+SO: Kadibna wuxuu ku dhacay meel cidhiidhi ah oo u dhexaysa labada guri.
+SO: Isagoo isku dayaya inuu ka baxo, ayuu sii dhex galay ilaa uu gebi ahaanba ku dhegay meel ka yar hal cag oo ballac ah.
+SO: Derisyadu waxay isku dayeen inay soo saaraan.
+SO: Laakiin ma ay awoodin iyaga oo aan xanuun u geysan.
+SO: Sidaas darteed, dab-damiyeyaashu waxay ku mariyeen saliidda cuntada lagu karsado.
+SO: Taasi waxay ka dhigtay jirkiisa mid simbiriirixanaya.
+SO: Kadibna si tartiib tartiib ah ayay derbiga dhinaciisa uga soo jiideen.
+SO: Ugu dambayntiina, si nabad ah ayaa looga soo saaray meeshii uu ku dhegay.
 SO: Buskudka waxaa lagu ridayaa qol bir ah oo si adag loo xiray.
-
 SO: Qolkaas waxaa lagu buuxiyaa ogsijiin saafi ah kadibna waxaa lagu dhex dhigaa weel biyo ah.
-
 SO: Silig koronto ayaa lagu shitaa cuntada, taasoo sababta inay ku gubato gudaha qolka.
-
 SO: Marka ay gubanayso, tamarteedu waxay isu beddeshaa kuleyl oo biyaha ayay kululeysaa.
-
 SO: Haddii cuntadu kaloori badan leedahay, kuleyl badan ayay sii daysaa.
-
 SO: Saynisyahannadu waxay xisaabiyaan kuleylkaas si ay u ogaadaan tirada kalooriyada.
-
-SO: Haddii aad baastada spaghetti-da laabto, waxay inta badan u jabtaa saddex qaybood ama ka badan.
-
+SO: Haddii aad baastada spaghettida laabto, waxay inta badan u jabtaa saddex qaybood ama ka badan.
 SO: Taasi waxay ka dhalataa gariir ka dhasha jabitaankeeda.
-
 SO: Haddii aad marka hore wax yar u rogto, si tartiib ahna u laabto, dhibaatadaas way yaraataa.
-
 SO: Rogitaanku wuxuu sii daayaa tamarta ka hor inta aysan dildilaacyo kale samaysmin.
-
 SO: Nin gaarsiinayey dalab ayaa garaacay albaabka macaamilad balse jawaab ma helin.
-
 SO: Intuu sii socday ayuu dareemay in wax khaldan jiraan.
-
 SO: Telefishanka iyo nalalkuba weli way shidnaayeen.
-
 SO: Markii uu daaqadda eegay ayuu arkay haweeneydii oo dhulka ku dhacday.
-
 SO: Sonkorta dhiiggeeda ayaa si aad ah hoos ugu dhacday, taasoo suuxdin ku keentay.
-
 SO: Wuxuu wacay ambalaas, waxaana lagu guuleystay in la badbaadiyo nolosheeda.
-
-SO: Haddii jirkaagu afar jeer ka weynaan lahaa, dhaq-dhaqaaqaagu wuu gaabi lahaa.
-
+SO: Haddii jirkaagu afar jeer ka weynaan lahaa, dhaqdhaqaaqaagu wuu gaabi lahaa.
 SO: Farriimaha neerfayaashu waxay waqti dheer ku qaadan lahaayeen inay jirkaaga dhex maraan.
-
 SO: Miisaankaagu wuxuu ka badnaan lahaa lixdan jeer miisaankaaga hadda.
-
 SO: Lafahaagu si la mid ah uma xoogeysan lahaayeen marka cabbirkaagu kordho.
-
 SO: Tallaabooyin yar ayaa xitaa dhaawac culus kuu geysan kara.
-
-SO: Haddii qof uu ka dhaco gaadhiga safari-ga, darawalku ma istaago.
-
+SO: Haddii qof uu ka dhaco gaadhiga safariga, darawalku ma istaago.
 SO: Wuxuu sii kordhiyaa xawaaraha si uu uga fogaado khatarta.
-
 SO: Xubnaha qoysku waxay isku dayi karaan inay badbaadiyaan qofka dhacay haddii la istaago.
-
 SO: Sidaas darteed darawallada waxaa loo tababaraa inay gargaar dalbadaan oo ay goobta ka fogaadaan.
-
-SO: Marka kalluunku ukumo dhigo, kalluunka catfish-ka ayaa yimaada.
-
+SO: Marka kalluunku ukumo dhigo, kalluunka catfishka ayaa yimaada.
 SO: Wuxuu cunaa ukumaha qaar isaga oo dhigaya ukuntiisa.
-
 SO: Hooyada kalluunka ahi waxay afkeeda ku ururisaa ukumaha si ay u ilaaliso.
-
-SO: Iyadoo aan ogayn ayay sidoo kale liqdaa ukunta catfish-ka.
-
+SO: Iyadoo aan ogayn ayay sidoo kale liqdaa ukunta catfishka.
 SO: Ukuntaasi si dhaqso badan ayay u dillaacdaa oo waxay cuntaa ukumaha kale.
-
 SO: Hooyadii kalluunka ahaydna waxay sii wadaa korinteeda iyadoo moodaysa inay tahay ubadkeedii.
-
 SO: Haweeney nadiifiso ah ayaa isla isbuunyadii musqusha ku dhaqday koobabkii martida.
-
 SO: Nin marti ahaa ayaa arrintaas ka shakiyay kadibna rakibay kamarad qarsoon.
-
 SO: Wuxuu sidoo kale kaamirooyin ku rakibay hoteello kale oo uu degay.
-
 SO: Wuxuu arkay shaqaale dib u isticmaalaya qalab nadaafadeed oo wasakhaysan.
-
 SO: Markii uu muuqaalladii internetka ku baahiyay, si weyn ayay u faafeen.
-
-SO: Hoteelladii qaarna waxay bixiyeen raalli-gelin rasmi ah.
-
+SO: Hoteelladii qaarna waxay bixiyeen raalligelin rasmi ah.
 SO: Laba waalid ah ayaa carruurtoodii kaga tagay hotelka iyagoo seexda.
-
 SO: Waxay u baxeen makhaayad meel aan sidaas uga fogayn.
-
 SO: Markii hooyadu dib ugu soo noqotay, waxay aragtay sariirtii gabadheeda oo madhan.
-
 SO: Daaqaddiina way furnayd.
-
 SO: Waalidkii waxay bilaabeen inay meel walba ka raadiyaan gabadhooda.
-
 SO: Booliiska iyo dadka deegaankuba way ka qayb qaateen raadinta.
-
 SO: Si kastaba ha ahaatee, wax raad ah lagama helin gabadha.
-
 SO: Tobannaan sano kadibna weli lama oga halka ay ku dambaysay.
-
 SO: Haweeney ayaa dad siisay buufinno waxayna ku amartay inay magacyadooda ku qoraan.
-
 SO: Kadib waxay ku tuureen marinka qolalka waxaana la siiyay shan daqiiqo si ay u helaan buufinkooda.
-
 SO: Ku dhowaad cidina ma helin kii magaceeda watay.
-
 SO: Markaas ayay ku tiri qof walba ha qaato buufinka ugu dhow oo ha gaarsiiyo qofka iska leh.
-
 SO: Laba daqiiqo gudahood qof walba wuxuu helay buufinkiisii.
-
 SO: Tani waxay muujisay in farxaddaada ugu dhaqsaha badan lagu gaari karo adigoo dadka kale caawinaya.
